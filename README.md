@@ -57,6 +57,7 @@ Awarded to one student annually in the College of Natural Science and Mathematic
 
 **Summer Undergraduate Research Award, University of Alaska Fairbanks**: 2012 ($5,000)  
 
+<!--(Clean up 
 [//]: # (UAF Research Day: 2013. Winner, First Place, Best Oral Presentation ($1,000))   
 
 [comment]: # (To attend conference in Philadelphia, PA.    )  
@@ -67,4 +68,7 @@ Awarded to one student annually in the College of Natural Science and Mathematic
 
 [comment]: # (Summer Undergraduate Research Award: 2012 ($5,000)    )  
 
-[comment]: # (Undergraduate Research and Scholarly Activity (URSA), University of Alaska, Fairbanks.)  
+[comment]: # (Undergraduate Research and Scholarly Activity (URSA), University of Alaska, Fairbanks.)  )
+-->
+
+WOrking below comments
