@@ -17,12 +17,12 @@ Thesis: <span style="font-variant:small-caps;">Climbing behavior of northern red
 
 ## Recent Professional Experience  
 
-**2015 - 2018** | **Curatorial Assistantship**, LSU Museum of Natural Science: Mammals Division.  
+**2015 - 2018** \| **Curatorial Assistantship**, LSU Museum of Natural Science: Mammals Division.  
 
-**2014 - 2015** | **Assistant Collections Manager**, University of Alaska Museum: Mammals Division.
+**2014 - 2015** \| **Assistant Collections Manager**, University of Alaska Museum: Mammals Division.
 Preparation and curation of mammal specimens and their associated data. Training and mentoring undergraduate students in curatorial methods and molecular lab work.  
 
-**2011 - 2014** | **Curatorial Assistant**, University of Alaska Museum: Mammals Division.  
+**2011 - 2014** \| **Curatorial Assistant**, University of Alaska Museum: Mammals Division.  
 
 <!--()
 Preparation and curation of mammal specimens and their associated data.
@@ -34,34 +34,34 @@ Leading a crew of 15 high school students on a week-long survey of small mammals
 -->
 
 ## Grants, Scholarships, and Awards  
-**2020** | **American Society of Mammalogists Fellowship** *(\$20,000)*   
+**2020** \| **American Society of Mammalogists Fellowship** *(\$20,000)*   
 The ASM Fellowship is the highest award made to a graduate student member of ASM.  
 
-**2020-2023** | **National Science Foundation Postdoctoral Research Fellowship in Biology**  
+**2020-2023** \| **National Science Foundation Postdoctoral Research Fellowship in Biology**  
 Title: <span style="font-variant:small-caps;">Convergent evolution of morphological integration in Indonesian shrews. </span>   
 Sponsored by [Graham Slater](https://fourdimensionalbiology.com/)  
 
-**2020** | **LSU Museum of Natural Science Outstanding Graduate Student**  
+**2020** \| **LSU Museum of Natural Science Outstanding Graduate Student**  
 
-**2019** | **Louisiana State University Prestigious Graduate Fellowship Award** _(\$4,000)_   
+**2019** \| **Louisiana State University Prestigious Graduate Fellowship Award** _(\$4,000)_   
 Awarded to select students for funding dissertation research.  
 
-**2019** | **Research Triangle Nanotechnology Network Award** _(\$2,000)_   
+**2019** \| **Research Triangle Nanotechnology Network Award** _(\$2,000)_   
 Support to $\mu$CT scan museum specimens at Duke University.  
 
-**2017** | **American Society of Mammalogists Patton Award** _(\$5,000)_  
+**2017** \| **American Society of Mammalogists Patton Award** _(\$5,000)_  
 Title: <span style="font-variant:small-caps;">Using museum specimens to understand how extraordinary diversity is maintained in the rodent communities of Sulawesi, Indonesia.</span>  
 
-**2017** | **National Science Foundation East Asia Pacific Studies Institute Fellow** _(\$8,000)_   
+**2017** \| **National Science Foundation East Asia Pacific Studies Institute Fellow** _(\$8,000)_   
 Sponsor: Dr. Kevin Rowe, Museums Victoria, Melbourne, Australia  
 
-**2016** | **Society of Systematic Biologists Graduate Student Research Award** _(\$1200)_  
+**2016** \| **Society of Systematic Biologists Graduate Student Research Award** _(\$1200)_  
 
-**2016** | **American Society of Mammalogists Grant in Aid**: _(\$1,000)_   
+**2016** \| **American Society of Mammalogists Grant in Aid**: _(\$1,000)_   
 
-**2015** | **National Science Foundation Graduate Research Fellowship**   
+**2015** \| **National Science Foundation Graduate Research Fellowship**   
 
-**2014** | **Outstanding Undergraduate Student in the Biological Sciences, University of Alaska Fairbanks**   
+**2014** \| **Outstanding Undergraduate Student in the Biological Sciences, University of Alaska Fairbanks**   
 
 <!--
 **Brina Kessel Medal for Excellence in Science: 2013­2014 ($500)**
@@ -92,28 +92,28 @@ Awarded to one student annually in the College of Natural Science and Mathematic
 
 ## Publications
 
-**2022** | **J.A. Nations**, B.A. Kohli, H. Handika, A.S. Achmadi, M.J. Polito, K.C. Rowe, J.A. Esselstyn. Trait-specific patterns of community ecospace occupancy in an insular mammal radiation. _In Review_. [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)  
+**2022** \| **J.A. Nations**, B.A. Kohli, H. Handika, A.S. Achmadi, M.J. Polito, K.C. Rowe, J.A. Esselstyn. Trait-specific patterns of community ecospace occupancy in an insular mammal radiation. _In Review_. [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)  
 
-**2022** | Wisniewski, A.L.\*, **J.A. Nations**\*, & G.J. Slater\*. 2022. Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa. _In Review_. [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.05.05.490807v1)  
+**2022** \| Wisniewski, A.L.\*, **J.A. Nations**\*, & G.J. Slater\*. 2022. Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa. _In Review_. [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.05.05.490807v1)  
 \*_All authors contributed equally to this work_  
 
-**2022** | Swanson, M.T., A.S. Achmadi, **J.A. Nations**, M.W. Henson, H. Handika, S. Anita, K.C. Rowe, H. Bennadji, M.J. Polito & J.A. Esselstyn. Bacterial families variably associated with diet along the gut in a trophically diverse community of wild rodents. _In Review_.  
+**2022** \| Swanson, M.T., A.S. Achmadi, **J.A. Nations**, M.W. Henson, H. Handika, S. Anita, K.C. Rowe, H. Bennadji, M.J. Polito & J.A. Esselstyn. Bacterial families variably associated with diet along the gut in a trophically diverse community of wild rodents. _In Review_.  
 
-**2021** | Marcondes, R.S.\*, **J.A. Nations**\*, Seeholzer, G.F., & Brumfield, R.T. 2021. Rethinking Gloger’s rule: climate, light environments, and color in a diverse family of tropical birds. The American Naturalist. 197(5): 592-606.   
+**2021** \| Marcondes, R.S.\*, **J.A. Nations**\*, Seeholzer, G.F., & Brumfield, R.T. 2021. Rethinking Gloger’s rule: climate, light environments, and color in a diverse family of tropical birds. The American Naturalist. 197(5): 592-606.   
 \*_Joint first authorship_
 
-**2021** | **Nations, J.A.**, G.G. Mount, S.M. Morere\*, A.S. Achmadi, K.C. Rowe, & J.A. Esselstyn. Locomotory mode transitions alter phenotypic evolution and lineage diversification in an ecologically rich clade of mammals. Evolution. 75(2): 376-393.  
+**2021** \| **Nations, J.A.**, G.G. Mount, S.M. Morere\*, A.S. Achmadi, K.C. Rowe, & J.A. Esselstyn. Locomotory mode transitions alter phenotypic evolution and lineage diversification in an ecologically rich clade of mammals. Evolution. 75(2): 376-393.  
 \*_Undergraduate author_  
 
-**2021** | **Nations, J.A.**, A. Mursyid, R. Darma Busta, S.P. Adrian, H. Handika, Apandi, A.S. Achmadi, J.A. Esselstyn. An albino rat from West Sumatra, Indonesia represents the first report of albinism in a Sundaland rodent. Mammalia. 85(2): 168-172.  
+**2021** \| **Nations, J.A.**, A. Mursyid, R. Darma Busta, S.P. Adrian, H. Handika, Apandi, A.S. Achmadi, J.A. Esselstyn. An albino rat from West Sumatra, Indonesia represents the first report of albinism in a Sundaland rodent. Mammalia. 85(2): 168-172.  
 
-**2020** | Roycroft, E.J\*, **J.A. Nations**\*, & K.C. Rowe. Environment predicts repeated body size shifts in a recent radiation of Australian mammals. Evolution. 74(3): 671-680.  
+**2020** \| Roycroft, E.J\*, **J.A. Nations**\*, & K.C. Rowe. Environment predicts repeated body size shifts in a recent radiation of Australian mammals. Evolution. 74(3): 671-680.  
 \*_Joint first authorship_  
 
-**2019** | **Nations, J.A.**, L.R. Heaney, T.C. Demos, A.S. Achmadi, K.C. Rowe, & J.A. Esselstyn. A Simple Skeletal Measurement Effectively Predicts Climbing Behavior in Murine Rodents. Biological Journal of the Linnean Society. 128(2): 323-336.  
+**2019** \| **Nations, J.A.**, L.R. Heaney, T.C. Demos, A.S. Achmadi, K.C. Rowe, & J.A. Esselstyn. A Simple Skeletal Measurement Effectively Predicts Climbing Behavior in Murine Rodents. Biological Journal of the Linnean Society. 128(2): 323-336.  
 \*_Selected for BJLS Ecomorphology Collection Virtual Issue_  
 
-**2015** | **Nations, J.A.** & L.E. Olson. 2015. Climbing behavior of northern red-backed voles (Myodes rutilus) and scansoriality in Myodes (Rodentia, Cricetidae). Journal of Mammalogy 96(5): 957–963.  
+**2015** \| **Nations, J.A.** & L.E. Olson. 2015. Climbing behavior of northern red-backed voles (Myodes rutilus) and scansoriality in Myodes (Rodentia, Cricetidae). Journal of Mammalogy 96(5): 957–963.  
 <!--
 -->
 
