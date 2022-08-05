@@ -96,23 +96,23 @@ Awarded to one student annually in the College of Natural Science and Mathematic
 **2022** | **J.A. Nations**, B.A. Kohli, H. Handika, A.S. Achmadi, M.J. Polito, K.C. Rowe, J.A. Esselstyn. Trait-specific patterns of community ecospace occupancy in an insular mammal radiation. *In Review*. [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)  
 
 **2022** | Wisniewski, A.L.\*, **J.A. Nations**\*, & G.J. Slater\*. 2022. Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa. *In Review*. [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.05.05.490807v1)  
-* *All authors contributed equally to this work*  
+\* *All authors contributed equally to this work*  
 
 **2022** | Swanson, M.T., A.S. Achmadi, **J.A. Nations**, M.W. Henson, H. Handika, S. Anita, K.C. Rowe, H. Bennadji, M.J. Polito & J.A. Esselstyn. Bacterial families variably associated with diet along the gut in a trophically diverse community of wild rodents. *In Review*.  
 
 **2021** | Marcondes, R.S.\*, **J.A. Nations**\*, Seeholzer, G.F., & Brumfield, R.T. 2021. Rethinking Gloger’s rule: climate, light environments, and color in a diverse family of tropical birds. The American Naturalist. 197(5): 592-606.   
-* *Joint first authorship*
+\* *Joint first authorship*
 
 **2021** | **Nations, J.A.**, G.G. Mount, S.M. Morere\*, A.S. Achmadi, K.C. Rowe, & J.A. Esselstyn. Locomotory mode transitions alter phenotypic evolution and lineage diversification in an ecologically rich clade of mammals. Evolution. 75(2): 376-393.  
-* *Undergraduate author*  
+\* *Undergraduate author*  
 
 **2021** | **Nations, J.A.**, A. Mursyid, R. Darma Busta, S.P. Adrian, H. Handika, Apandi, A.S. Achmadi, J.A. Esselstyn. An albino rat from West Sumatra, Indonesia represents the first report of albinism in a Sundaland rodent. Mammalia. 85(2): 168-172.  
 
 **2020** | Roycroft, E.J\*, **J.A. Nations**\*, & K.C. Rowe. Environment predicts repeated body size shifts in a recent radiation of Australian mammals. Evolution. 74(3): 671-680.  
-* *Joint first authorship*  
+\* *Joint first authorship*  
 
 **2019** | **Nations, J.A.**, L.R. Heaney, T.C. Demos, A.S. Achmadi, K.C. Rowe, & J.A. Esselstyn. A Simple Skeletal Measurement Effectively Predicts Climbing Behavior in Murine Rodents. Biological Journal of the Linnean Society. 128(2): 323-336.  
-*Selected for BJLS Ecomorphology Collection Virtual Issue*  
+\*Selected for BJLS Ecomorphology Collection Virtual Issue*  
 
 **2015** | **Nations, J.A.** & L.E. Olson. 2015. Climbing behavior of northern red-backed voles (Myodes rutilus) and scansoriality in Myodes (Rodentia, Cricetidae). Journal of Mammalogy 96(5): 957–963.  
 <!--
