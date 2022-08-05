@@ -1,13 +1,13 @@
 # Jonathan A. Nations
 
-_National Sceince Foundation Postdoctoral Scholar bases in Chicago <br>
+_National Science Foundation Postdoctoral Scholar based in Chicago_ <br>
 
 [Email](mailto:jonnatiions@gmail.com) / [Website](https://jonnynations.com/) / [GitHub](https://github.com/jonnations/) 
 
-## 👩🏼‍💻 Engineering Experience
+## Education
 
-**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
+**PhD** @ Louisiana State University _(2015 - 2020)_ <br>
+Dissertation: *Function, History, and Ecology in the Exceptional Diversification of Murine Rodents*
   - Implementing features that improve the UI and accessibility of the integrations platform
   - Extending a company-wide design system
   - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement).
