@@ -1,19 +1,41 @@
 # Jonathan A. Nations   
-### **WORK IN PROGRESS FROM A [ HELPFUL TEMPLATE!](https://workwithcarolyn.com/blog/digital-cv-guide)**  
+## **WORK IN PROGRESS FROM A [ HELPFUL TEMPLATE!](https://workwithcarolyn.com/blog/digital-cv-guide)**  
 
 _National Science Foundation Postdoctoral Scholar based a the University of Chicago and the Field Museum of Natural History_ <br>
 
 [Email](mailto:jonnatiions@gmail.com) / [Website](https://jonnynations.com/) / [GitHub](https://github.com/jonnations/) 
 
-### Education
+## Education
 
-**PhD** @ Louisiana State University _(2015 - 2020)_ <br>
+**PhD** @ Louisiana State University *(2015 - 2020)* <br>
 Dissertation: <span style="font-variant:small-caps;">Function, History, and Ecology in the Exceptional Diversification of Murine Rodents</span>  
-<br>
-**BSc** @ University of Alaska Fairbanks _(2015 - 2020)_ <br>
+
+**BSc** @ University of Alaska Fairbanks *(2015 - 2020)* <br>
 Thesis: <span style="font-variant:small-caps;">Climbing behavior of northern red-backed voles (*Myodes rutilus*) and scansoriality in Myodes (Rodentia, Cricetidae)</span>  
-<br>
+
 **ASc** @ Seattle Central Community College _(2008 - 2011)_ <br>
+
+## Recent Professional Experience:
+
+**Curatorial Assistant**, LSU Museum of Natural Science Mammals Department *(2015 - 2018)*
+Curatorial Assistant, 2015-2018
+Preparation and curation of mammal specimens and their associated data.
+Training and mentoring undergraduate students in curatorial methods and molecular lab work
+Animal Care and Use and LSU IACUC training.
+
+**Assistant Collections Manager**, University of Alaska Museum Mammals Department *(2014 - 2015)*
+Assistant Collections Manager, 2014-2015
+
+**Curatorial Assistant** University of Alaska Museum Mammals Department *(2011 - 2014)*
+<!--()
+Preparation and curation of mammal specimens and their associated data.
+Behind­the­scenes tours of the research departments and collection range for public visitors.
+Student Conservation Association:
+Intern, Denali National Park, University of Alaska Museum, Summer 2014 & Summer 2015
+Training 3 underrepresented high school students in museum specimen preparation.
+Leading a crew of 15 high school students on a week-long survey of small mammals in Denali National Park.)
+-->
+
     
 ### Grants, Scholarships, and Awards
 
