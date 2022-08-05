@@ -55,9 +55,9 @@ Awarded to one student annually in the College of Natural Science and Mathematic
 
 **First Place, Best Oral Presentation, UAF Research Day**: 2013 ($1,000)  
 
-**Summer Undergraduate Research Award, University of Alaska Fairbanks**: 2012 ($5,000)
+**Summer Undergraduate Research Award, University of Alaska Fairbanks**: 2012 ($5,000)  
 
-[//]: <> (UAF Research Day: 2013. Winner, First Place, Best Oral Presentation ($1,000).  )  
+[//]: <> (UAF Research Day: 2013. Winner, First Place, Best Oral Presentation ($1,000))   
 
 [comment]: # (UAF Undergraduate Travel Award: 2011 ($1,995)   )  
 
