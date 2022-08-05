@@ -17,11 +17,11 @@ Thesis: <span style="font-variant:small-caps;">Climbing behavior of northern red
     
 ### Grants, Scholarships, and Awards
 
-**National Science Foundation Postdoctoral Research Fellowship in Biology**: (2021-2024)
-Title: <span style="font-variant:small-caps;">Convergent evolution of morphological integration in Indonesian shrews.</span>
+**National Science Foundation Postdoctoral Research Fellowship in Biology**: (2021-2024)  
+Title: <span style="font-variant:small-caps;">Convergent evolution of morphological integration in Indonesian shrews.</span>  
 Sponsored by [Graham Slater](https://fourdimensionalbiology.com/)  
 <br>
-**Louisiana State University Museum of Natural Science Outstanding Graduate Student**: (2020)
+**Louisiana State University Museum of Natural Science Outstanding Graduate Student**: (2020)   
 Awarded annually to one graduate student for their excellence in academic research and contribution to the mission of the LSU Museum of Natural Science.  
 <br>
 National Science Foundation Graduate Research Fellowship: Awarded 2015-2020
