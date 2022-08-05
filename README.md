@@ -15,16 +15,12 @@ Thesis: <span style="font-variant:small-caps;">Climbing behavior of northern red
 
 **ASc** @ Seattle Central Community College _(2008 - 2011)_ <br>
 
-## Recent Professional Experience:
+## Recent Professional Experience  
 
-**Curatorial Assistant**, LSU Museum of Natural Science Mammals Department *(2015 - 2018)*
-Curatorial Assistant, 2015-2018
-Preparation and curation of mammal specimens and their associated data.
-Training and mentoring undergraduate students in curatorial methods and molecular lab work
-Animal Care and Use and LSU IACUC training.
+**Curatorial Assistantship**, LSU Museum of Natural Science Mammals Department *(2015 - 2018)*
 
 **Assistant Collections Manager**, University of Alaska Museum Mammals Department *(2014 - 2015)*
-Assistant Collections Manager, 2014-2015
+Preparation and curation of mammal specimens and their associated data. Training and mentoring undergraduate students in curatorial methods and molecular lab work.
 
 **Curatorial Assistant** University of Alaska Museum Mammals Department *(2011 - 2014)*
 <!--()
@@ -37,7 +33,9 @@ Leading a crew of 15 high school students on a week-long survey of small mammals
 -->
 
     
-### Grants, Scholarships, and Awards
+## Grants, Scholarships, and Awards  
+**American Society of Mammalogists Fellowship**: *(2020)* ($20,000)   
+The ASM Fellowship is the highest award made to a graduate student member of ASM. The award is intended to recognize current outstanding accomplishments in mammalogy, service to ASM, as well as the potential for a productive, future role in professional Mammalogy.
 
 **National Science Foundation Postdoctoral Research Fellowship in Biology**: (2021-2024)  
 Title: <span style="font-variant:small-caps;">Convergent evolution of morphological integration in Indonesian shrews.</span>  
@@ -49,21 +47,21 @@ Awarded annually to one graduate student for their excellence in academic resear
 **National Science Foundation Graduate Research Fellowship**: Awarded 2015-2020
 The NSF Graduate Research Fellowship Program recognizes and supports outstanding graduate students in NSF-supported science, technology, engineering, and mathematics.
 
-**Louisiana State University Prestigious Graduate Fellowship Award**: 2019 ($4000).   
+**Louisiana State University Prestigious Graduate Fellowship Award**: 2019 ($4,000).   
 Awarded to select students for funding dissertation research.
 
-**Research Triangle Nanotechnology Network Award**: 2019 ($2000)
+**Research Triangle Nanotechnology Network Award**: 2019 ($2,000)
 Support for visiting researchers for the use of nanotechnology equipment at Duke University; used for microCT scanning of museum specimens.  
 
-**American Society of Mammalogists Patton Award**: 2017 ($5000)
+**American Society of Mammalogists Patton Award**: 2017 ($5,000)
 Project Title: <span style="font-variant:small-caps;">Using museum specimens to understand how extraordinary diversity is maintained in the rodent communities of Sulawesi, Indonesia.</span>  
 
-**National Science Foundation East Asia Pacific Studies Institute Fellow**: 2017 ($8000)  
+**National Science Foundation East Asia Pacific Studies Institute Fellow**: *(2017)* ($8,000)  
 For work on Sulawesi rodent biodiversity in the lab of Dr. Kevin Rowe, Museums Victoria, Melbourne, Australia
 
-**American Society of Mammalogists Grant in Aid**: 2016 (1,000))
+**American Society of Mammalogists Grant in Aid**: *(2016)* ($1,000))
 
-**Society of Systematic Biologists Graduate Student Research Award**: 2016 ($1200))
+**Society of Systematic Biologists Graduate Student Research Award**: *(2016)* ($1200))
 
 **Outstanding Undergraduate Student in the Biological Sciences, University of Alaska Fairbanks**: 2014)
 Awarded to one student annually by the College of Natural Sciences and Mathematics, UAF.
