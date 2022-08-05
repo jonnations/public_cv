@@ -1,5 +1,5 @@
 # Jonathan A. Nations   
-## **WORK IN PROGRESS FROM A [ HELPFUL TEMPLATE!](https://workwithcarolyn.com/blog/digital-cv-guide)**  
+## **Work in progress from a [ Helpful Template](https://workwithcarolyn.com/blog/digital-cv-guide)**  
 
 _National Science Foundation Postdoctoral Scholar based a the University of Chicago and the Field Museum of Natural History_ <br>
 
