@@ -1,10 +1,11 @@
-# Jonathan A. Nations
+# Jonathan A. Nations   
+## **WORK IN PROGRESS FROM A [ HELPFUL TEMPLATE!](https://workwithcarolyn.com/blog/digital-cv-guide)**  
 
 _National Science Foundation Postdoctoral Scholar based a the University of Chicago and the Field Museum of Natural History_ <br>
 
 [Email](mailto:jonnatiions@gmail.com) / [Website](https://jonnynations.com/) / [GitHub](https://github.com/jonnations/) 
 
-## Education
+### Education
 
 **PhD** @ Louisiana State University _(2015 - 2020)_ <br>
 Dissertation: <span style="font-variant:small-caps;">Function, History, and Ecology in the Exceptional Diversification of Murine Rodents</span>  
@@ -18,11 +19,11 @@ Thesis: <span style="font-variant:small-caps;">Climbing behavior of northern red
 
 **National Science Foundation Postdoctoral Research Fellowship in Biology**: (2021-2024)
 Title: <span style="font-variant:small-caps;">Convergent evolution of morphological integration in Indonesian shrews.</span>
-Sponsoring Institutions: University of Chicago, Field Museum of Natural History, Chicago State University.
-Research Area: Interdisciplinary Research Using Biological Collections  
+Sponsored by [Graham Slater](https://fourdimensionalbiology.com/)  
 <br>
-Louisiana State University Museum of Natural Science Graduate Student of the Year: 2021
-Awarded annually to one graduate student for their excellence in academic research and contribution to the mission of the LSU Museum of Natural Science.
+**Louisiana State University Museum of Natural Science Outstanding Graduate Student**: (2020)
+Awarded annually to one graduate student for their excellence in academic research and contribution to the mission of the LSU Museum of Natural Science.  
+<br>
 National Science Foundation Graduate Research Fellowship: Awarded 2015-2020
 The NSF Graduate Research Fellowship Program recognizes and supports outstanding graduate students in NSF-supported science, technology, engineering, and mathematics.
 
