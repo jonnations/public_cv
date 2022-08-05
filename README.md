@@ -17,9 +17,14 @@ Thesis: <span style="font-variant:small-caps;">Climbing behavior of northern red
 ## Recent Professional Experience  
 
 **2015 - 2018** \| **Curatorial Assistantship**, LSU Museum of Natural Science: Mammals Division.  
+<!-- Preparation and curation of mammal specimens and their associated data.
+Training and mentoring undergraduate students in curatorial methods and molecular lab work
+Animal Care and Use and LSU IACUC training.
+-->  
 
 **2014 - 2015** \| **Assistant Collections Manager**, University of Alaska Museum: Mammals Division.
-Preparation and curation of mammal specimens and their associated data. Training and mentoring undergraduate students in curatorial methods and molecular lab work.  
+<!-- Preparation and curation of mammal specimens and their associated data. Training and mentoring undergraduate students in curatorial methods and molecular lab work. BEhind the scenes tours  
+-->   
 
 **2011 - 2014** \| **Curatorial Assistant**, University of Alaska Museum: Mammals Division.  
 
