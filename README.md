@@ -7,13 +7,13 @@ _National Science Foundation Postdoctoral Scholar based a the University of Chic
 
 ## Education
 
-**2015 - 2020** | **PhD**, Biological Sciences, Louisiana State University  
+**2015 - 2020** \| **PhD**, Biological Sciences, Louisiana State University  
 Dissertation: <span style="font-variant:small-caps;">Function, history, and ecology in the exceptional diversification of murine rodents </span>  
 
-**2011 - 2014** | **BSc**, Biological Sciences, University of Alaska Fairbanks  
+**2011 - 2014** \| **BSc**, Biological Sciences, University of Alaska Fairbanks  
 Thesis: <span style="font-variant:small-caps;">Climbing behavior of northern red-backed voles and scansoriality in Myodes </span>  
 
-**2008 - 2011** | **ASc**, Science and Math, Seattle Central Community College  
+**2008 - 2011** \| **ASc**, Science and Math, Seattle Central Community College  
 
 ## Recent Professional Experience  
 
