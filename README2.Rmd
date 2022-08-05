@@ -4,54 +4,59 @@ _National Science Foundation Postdoctoral Scholar based in Chicago_ <br>
 
 [Email](mailto:jonnatiions@gmail.com) / [Website](https://jonnynations.com/) / [GitHub](https://github.com/jonnations/) 
 
-## Education
+### Education
 
 **PhD** @ Louisiana State University _(2015 - 2020)_ <br>
-Dissertation: \textsc{Function, History, and Ecology in the Exceptional Diversification of Murine Rodents}
-
+Dissertation: <span style="font-variant:small-caps;">Function, History, and Ecology in the Exceptional Diversification of Murine Rodents</span>  
 <br>
-
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
-<br><br>
-
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
-  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of Meeshkan's documentation and technical blog
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
-    <br><br>
-
-**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
-Professional chauffeur service available in over 300 cities worldwide.
-  - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
-  - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
-  - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
-  <br><br>
-
-**Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
-API-first infrastructure to create, manage and distribute content.
-  - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
-  - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
-  - Assistance with information architecture and UX writing for the web app
-  - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.
-  - **_Selected writing:_**
-    - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
-    - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
-    - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
-    <br><br>
+**BSc** @ University of Alaska Fairbanks _(2015 - 2020)_ <br>
+Thesis: <span style="font-variant:small-caps;">Climbing behavior of northern red-backed voles (*Myodes rutilus*) and scansoriality in Myodes (Rodentia, Cricetidae)</span>  
+<br>
+**ASc** @ Seattle Central Community College _(2008 - 2011)_ <br>
     
-## 🗞 Journalism Experience
+### Grants, Scholarships, and Awards
+
+**National Science Foundation Postdoctoral Research Fellowship in Biology**: (2021-2024)
+Title: <span style="font-variant:small-caps;">Convergent evolution of morphological integration in Indonesian shrews.</span>
+Sponsoring Institutions: University of Chicago, Field Museum of Natural History, Chicago State University.
+Research Area: Interdisciplinary Research Using Biological Collections  
+<br>
+Louisiana State University Museum of Natural Science Graduate Student of the Year: 2021
+Awarded annually to one graduate student for their excellence in academic research and contribution to the mission of the LSU Museum of Natural Science.
+National Science Foundation Graduate Research Fellowship: Awarded 2015-2020
+The NSF Graduate Research Fellowship Program recognizes and supports outstanding graduate students in NSF-supported science, technology, engineering, and mathematics.
+
+Louisiana State University Prestigious Graduate Fellowship Award: 2019 ($4000)
+Awarded to select students for funding dissertation research.
+Research Triangle Nanotechnology Network Award: 2019 ($2000)
+Support for visiting researchers for the use of nanotechnology equipment at Duke University. This award was used for microCT scanning of museum specimens.
+American Society of Mammalogists Patton Award: 2017 ($5000)
+Support for project title “Using museum specimens to understand how extraordinary diversity is maintained in the rodent communities of Sulawesi, Indonesia.”
+National Science Foundation East Asia Pacific Studies Institute Fellow: 2017 ($5000 + $3000 Stipend)
+For work on Sulawesi rodent biodiversity in the lab of Dr. Kevin Rowe, Museum Victoria, Melbourne, Australia
+American Society of Mammalogists Grant in Aid: 2016 ($1,000)
+Awarded to excellent student members of the society to assist in research.
+Society of Systematic Biologists Graduate Student Research Award: 2016 ($1,200)
+To assist in the initiation of dissertation research on the evolution and ecology of southeast Asian mammals.
+University of Alaska Outstanding Undergraduate Student in the Biological Sciences: 2013­2014
+Awarded to one student annually by the College of Natural Sciences and Mathematics, UAF.
+Brina Kessel Medal for Excellence in Science: 2013­2014 ($500)
+Awarded to one student annually in the UAF College of Natural Science and Mathematics.
+W. Scott Parrish Memorial Scholarship: 2013­2014 ($1,500)
+Distributed by University of Alaska, Fairbanks.
+Summer Undergraduate Research Award: 2013 ($5000)
+Undergraduate Research and Scholarly Activity (URSA), University of Alaska, Fairbanks.
+American Society of Mammalogists Travel Award: 2013 ($300)
+To attend the 2013 American Society of Mammalogists Annual Conference in Philadelphia, PA.
+UAF Research Day: 2013. Winner, First Place, Best Oral Presentation ($1,000).
+UAF Undergraduate Travel Award: 2011 ($1,995)
+To attend conference in Philadelphia, PA.
+Fred Beeler Memorial Scholarship: 2012­2013 ($3,000)
+Distributed by UAF to outstanding undergraduate students.
+Summer Undergraduate Research Award: 2012 ($5,000)
+Undergraduate Research and Scholarly Activity (URSA), University of Alaska, Fairbanks.
+
+
 
 _This section only accounts for work done post-career change._
 <br><br>
