@@ -59,13 +59,6 @@ Awarded to one student annually in the College of Natural Science and Mathematic
 
 [//]: <> (UAF Research Day: 2013. Winner, First Place, Best Oral Presentation ($1,000))   
 
-<<<<<<< HEAD
-=======
-[comment]: # (UAF Research Day: 2013. Winner, First Place, Best Oral Presentation ($1,000).  )  
-
->>>>>>> 419c6ae7be5b705d630b0a06c9a87d566cbb4877
-[comment]: # (UAF Undergraduate Travel Award: 2011 ($1,995)   )  
-
 [comment]: # (To attend conference in Philadelphia, PA.    )  
 
 [comment]: # (Fred Beeler Memorial Scholarship: 2012­2013 ($3,000)  )  
