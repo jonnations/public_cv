@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
-title: 'Jonathan A. Nations'
-description: University of Chicago \| FMNH
+title: "CV"
+#description: University of Chicago \| FMNH
+author: Jonathan A. Nations
+jobtitle: "NSF Postdoctoral Research Fellow"
+address: "Department of the Geophysical Sciences"
+jobtitle2: "University of Chicago "
