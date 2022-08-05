@@ -45,26 +45,27 @@ Sponsored by [Graham Slater](https://fourdimensionalbiology.com/)
 
 **2020** | **LSU Museum of Natural Science Outstanding Graduate Student**  
 
-**2019** | **Louisiana State University Prestigious Graduate Fellowship Award** *($4,000)*   
+**2019** | **Louisiana State University Prestigious Graduate Fellowship Award** _($4,000)_   
 Awarded to select students for funding dissertation research.
 
-**2019** | **Research Triangle Nanotechnology Network Award** *($2,000)*  
+**2019** | **Research Triangle Nanotechnology Network Award** _($2,000)_  
 Support to $\mu$CT scan museum specimens at Duke University.
 
-**2017** | **American Society of Mammalogists Patton Award** *($5,000)*  
+**2017** | **American Society of Mammalogists Patton Award** _($5,000)_  
 Title: <span style="font-variant:small-caps;">Using museum specimens to understand how extraordinary diversity is maintained in the rodent communities of Sulawesi, Indonesia.</span>  
 
-**2017** | **National Science Foundation East Asia Pacific Studies Institute Fellow** *($8,000)*  
+**2017** | **National Science Foundation East Asia Pacific Studies Institute Fellow** _($8,000)_   
 Sponsor: Dr. Kevin Rowe, Museums Victoria, Melbourne, Australia
 
-**2016** | **Society of Systematic Biologists Graduate Student Research Award** *($1200)*  
+**2016** | **Society of Systematic Biologists Graduate Student Research Award** _($1200)_  
 
-**2016** | **American Society of Mammalogists Grant in Aid**: *($1,000)*  
+**2016** | **American Society of Mammalogists Grant in Aid**: _($1,000)_  
 
 **2015** | **National Science Foundation Graduate Research Fellowship**  
 
 **2014** | **Outstanding Undergraduate Student in the Biological Sciences, University of Alaska Fairbanks**  
 
+<!--
 **Brina Kessel Medal for Excellence in Science: 2013­2014 ($500)**
 Awarded to one student annually in the College of Natural Science and Mathematics, UAF.
 
@@ -75,6 +76,7 @@ Awarded to one student annually in the College of Natural Science and Mathematic
 **First Place, Best Oral Presentation, UAF Research Day**: 2013 ($1,000)  
 
 **Summer Undergraduate Research Award, University of Alaska Fairbanks**: 2012 ($5,000)  
+-->
 
 <!--(Clean up 
 [//]: # (UAF Research Day: 2013. Winner, First Place, Best Oral Presentation ($1,000))   
