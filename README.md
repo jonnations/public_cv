@@ -7,11 +7,8 @@ _National Science Foundation Postdoctoral Scholar based in Chicago_ <br>
 ## Education
 
 **PhD** @ Louisiana State University _(2015 - 2020)_ <br>
-Dissertation: *Function, History, and Ecology in the Exceptional Diversification of Murine Rodents*
-  - Implementing features that improve the UI and accessibility of the integrations platform
-  - Extending a company-wide design system
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement).
-<br><br>
+Dissertation: \textsc{Function, History, and Ecology in the Exceptional Diversification of Murine Rodents}
+<br>
 
 **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
 [Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
