@@ -51,7 +51,7 @@ Sponsored by [Graham Slater](https://fourdimensionalbiology.com/)
 Awarded to select students for funding dissertation research.  
 
 **2019** \| **Research Triangle Nanotechnology Network Award** _(\$2,000)_   
-Support to $\mu$CT scan museum specimens at Duke University.  
+Support to μCT scan museum specimens at Duke University.  
 
 **2017** \| **American Society of Mammalogists Patton Award** _(\$5,000)_  
 Title: <span style="font-variant:small-caps;">Using museum specimens to understand how extraordinary diversity is maintained in the rodent communities of Sulawesi, Indonesia.</span>  
