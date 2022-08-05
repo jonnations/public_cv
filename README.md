@@ -1,6 +1,6 @@
 # Jonathan A. Nations   
 ## **Work in progress from a [ Helpful Template](https://workwithcarolyn.com/blog/digital-cv-guide)**  
-152  
+156  
 _National Science Foundation Postdoctoral Scholar based a the University of Chicago and the Field Museum of Natural History_ <br>
 
 [Email](mailto:jonnatiions@gmail.com) / [Website](https://jonnynations.com/) / [GitHub](https://github.com/jonnations/) 
@@ -8,10 +8,10 @@ _National Science Foundation Postdoctoral Scholar based a the University of Chic
 ## Education
 
 **2015 - 2020** | **PhD**, Biological Sciences, Louisiana State University  
-Dissertation: <span style="font-variant:small-caps;">Function, history, and ecology in the exceptional diversification of murine rodents</span>  
+Dissertation: <span style="font-variant:small-caps;">Function, history, and ecology in the exceptional diversification of murine rodents </span>  
 
 **2011 - 2014** | **BSc**, Biological Sciences, University of Alaska Fairbanks  
-Thesis: <span style="font-variant:small-caps;">Climbing behavior of northern red-backed voles ( _Myodes rutilus_ ) and scansoriality in Myodes</span>  
+Thesis: <span style="font-variant:small-caps;">Climbing behavior of northern red-backed voles ( _Myodes rutilus_ ) and scansoriality in Myodes </span>  
 
 **2008 - 2011** | **ASc**, Science and Math, Seattle Central Community College  
 
@@ -38,8 +38,8 @@ Leading a crew of 15 high school students on a week-long survey of small mammals
 The ASM Fellowship is the highest award made to a graduate student member of ASM.  
 
 **2020-2023** | **National Science Foundation Postdoctoral Research Fellowship in Biology**  
-Title: <span style="font-variant:small-caps;">Convergent evolution of morphological integration in Indonesian shrews.</span>   
-Sponsored by [Graham Slater](https://fourdimensionalbiology.com/)   
+Title: <span style="font-variant:small-caps;">Convergent evolution of morphological integration in Indonesian shrews. </span>   
+Sponsored by [Graham Slater](https://fourdimensionalbiology.com/)  
 
 **2020** | **LSU Museum of Natural Science Outstanding Graduate Student**  
 
