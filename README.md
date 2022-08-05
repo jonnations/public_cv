@@ -11,19 +11,18 @@ _National Science Foundation Postdoctoral Scholar based a the University of Chic
 Dissertation: <span style="font-variant:small-caps;">Function, history, and ecology in the exceptional diversification of murine rodents</span>  
 
 **2011 - 2014** | **BSc**, Biological Sciences, University of Alaska Fairbanks  
-Thesis: <span style="font-variant:small-caps;">Climbing behavior of northern red-backed voles (_Myodes rutilus_) and scansoriality in _Myodes_</span>  
+Thesis: <span style="font-variant:small-caps;">Climbing behavior of northern red-backed voles ( _Myodes rutilus_ ) and scansoriality in _Myodes_  </span>  
 
 **2008 - 2011** | **ASc**, Science and Math, Seattle Central Community College  
 
-
 ## Recent Professional Experience  
 
-**2015 - 2018** | **Curatorial Assistantship**, LSU Museum of Natural Science: Mammals Division.
+**2015 - 2018** | **Curatorial Assistantship**, LSU Museum of Natural Science: Mammals Division.  
 
 **2014 - 2015** | **Assistant Collections Manager**, University of Alaska Museum: Mammals Division.
-Preparation and curation of mammal specimens and their associated data. Training and mentoring undergraduate students in curatorial methods and molecular lab work.
+Preparation and curation of mammal specimens and their associated data. Training and mentoring undergraduate students in curatorial methods and molecular lab work.  
 
-**2011 - 2014** | **Curatorial Assistant**, University of Alaska Museum: Mammals Division.
+**2011 - 2014** | **Curatorial Assistant**, University of Alaska Museum: Mammals Division.  
 <!--()
 Preparation and curation of mammal specimens and their associated data.
 Behind­the­scenes tours of the research departments and collection range for public visitors.
@@ -36,33 +35,33 @@ Leading a crew of 15 high school students on a week-long survey of small mammals
     
 ## Grants, Scholarships, and Awards  
 **2020** | **American Society of Mammalogists Fellowship** *($20,000)*   
-The ASM Fellowship is the highest award made to a graduate student member of ASM.
+The ASM Fellowship is the highest award made to a graduate student member of ASM.  
 
 **2020-2023** | **National Science Foundation Postdoctoral Research Fellowship in Biology**  
-Title: <span style="font-variant:small-caps;">Convergent evolution of morphological integration in Indonesian shrews.</span>  
-Sponsored by [Graham Slater](https://fourdimensionalbiology.com/)  
+Title: <span style="font-variant:small-caps;">Convergent evolution of morphological integration in Indonesian shrews.</span>   
+Sponsored by [Graham Slater](https://fourdimensionalbiology.com/)   
 
 **2020** | **LSU Museum of Natural Science Outstanding Graduate Student**  
 
 **2019** | **Louisiana State University Prestigious Graduate Fellowship Award** _($4,000)_   
-Awarded to select students for funding dissertation research.
+Awarded to select students for funding dissertation research.  
 
-**2019** | **Research Triangle Nanotechnology Network Award** _($2,000)_  
-Support to $\mu$CT scan museum specimens at Duke University.
+**2019** | **Research Triangle Nanotechnology Network Award** _($2,000)_   
+Support to $\mu$CT scan museum specimens at Duke University.  
 
 **2017** | **American Society of Mammalogists Patton Award** _($5,000)_  
 Title: <span style="font-variant:small-caps;">Using museum specimens to understand how extraordinary diversity is maintained in the rodent communities of Sulawesi, Indonesia.</span>  
 
 **2017** | **National Science Foundation East Asia Pacific Studies Institute Fellow** _($8,000)_   
-Sponsor: Dr. Kevin Rowe, Museums Victoria, Melbourne, Australia
+Sponsor: Dr. Kevin Rowe, Museums Victoria, Melbourne, Australia  
 
 **2016** | **Society of Systematic Biologists Graduate Student Research Award** _($1200)_  
 
-**2016** | **American Society of Mammalogists Grant in Aid**: _($1,000)_  
+**2016** | **American Society of Mammalogists Grant in Aid**: _($1,000)_   
 
-**2015** | **National Science Foundation Graduate Research Fellowship**  
+**2015** | **National Science Foundation Graduate Research Fellowship**   
 
-**2014** | **Outstanding Undergraduate Student in the Biological Sciences, University of Alaska Fairbanks**  
+**2014** | **Outstanding Undergraduate Student in the Biological Sciences, University of Alaska Fairbanks**   
 
 <!--
 **Brina Kessel Medal for Excellence in Science: 2013­2014 ($500)**
