@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Jonathan A. Nations CV
 description: My CV
-links:: black
+links: black
+output: html
