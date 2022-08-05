@@ -58,9 +58,15 @@ Awarded to one student annually in the College of Natural Science and Mathematic
 **Summer Undergraduate Research Award, University of Alaska Fairbanks**: 2012 ($5,000)
 
 [comment]: # (UAF Research Day: 2013. Winner, First Place, Best Oral Presentation ($1,000).  )  
+
 [comment]: # (UAF Undergraduate Travel Award: 2011 ($1,995)   )  
+
 [comment]: # (To attend conference in Philadelphia, PA.    )  
+
 [comment]: # (Fred Beeler Memorial Scholarship: 2012­2013 ($3,000)  )  
+
 [comment]: # (Distributed by UAF to outstanding undergraduate students.  )  
+
 [comment]: # (Summer Undergraduate Research Award: 2012 ($5,000)    )  
+
 [comment]: # (Undergraduate Research and Scholarly Activity (URSA), University of Alaska, Fairbanks.)  
