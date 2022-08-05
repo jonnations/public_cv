@@ -7,22 +7,22 @@ _National Science Foundation Postdoctoral Scholar based a the University of Chic
 
 ## Education
 
-**PhD** @ Louisiana State University *(2015 - 2020)* <br>
-Dissertation: <span style="font-variant:small-caps;">Function, History, and Ecology in the Exceptional Diversification of Murine Rodents</span>  
+**2015 - 2020** | **PhD**, Biological Sciences, Louisiana State University  
+>Dissertation: <span style="font-variant:small-caps;">Function, History, and Ecology in the Exceptional Diversification of Murine Rodents</span>  
 
-**BSc** @ University of Alaska Fairbanks *(2015 - 2020)* <br>
-Thesis: <span style="font-variant:small-caps;">Climbing behavior of northern red-backed voles (*Myodes rutilus*) and scansoriality in Myodes (Rodentia, Cricetidae)</span>  
+**2011 - 2014** | **BSc**, Biological Sciences, University of Alaska Fairbanks  
+>Thesis: <span style="font-variant:small-caps;">Climbing behavior of northern red-backed voles (*Myodes rutilus*) and scansoriality in Myodes (Rodentia, Cricetidae)</span>  
 
-**ASc** @ Seattle Central Community College _(2008 - 2011)_ <br>
+**2008 - 2011** | **ASc**, Science and Math, Seattle Central Community College
 
 ## Recent Professional Experience  
 
-**Curatorial Assistantship**, LSU Museum of Natural Science Mammals Department *(2015 - 2018)*
+**2015 - 2018** | **Curatorial Assistantship**, LSU Museum of Natural Science: Mammals Division.
 
-**Assistant Collections Manager**, University of Alaska Museum Mammals Department *(2014 - 2015)*
+**2014 - 2015** | **Assistant Collections Manager**, University of Alaska Museum: Mammals Division.
 Preparation and curation of mammal specimens and their associated data. Training and mentoring undergraduate students in curatorial methods and molecular lab work.
 
-**Curatorial Assistant** University of Alaska Museum Mammals Department *(2011 - 2014)*
+**2011 - 2014** | **Curatorial Assistant**, University of Alaska Museum: Mammals Division.
 <!--()
 Preparation and curation of mammal specimens and their associated data.
 Behind­the­scenes tours of the research departments and collection range for public visitors.
@@ -37,7 +37,7 @@ Leading a crew of 15 high school students on a week-long survey of small mammals
 **American Society of Mammalogists Fellowship**: *(2020)* ($20,000)   
 The ASM Fellowship is the highest award made to a graduate student member of ASM. The award is intended to recognize current outstanding accomplishments in mammalogy, service to ASM, as well as the potential for a productive, future role in professional Mammalogy.
 
-**National Science Foundation Postdoctoral Research Fellowship in Biology**: (2021-2024)  
+**National Science Foundation Postdoctoral Research Fellowship in Biology**: *(2020-2023)* 
 Title: <span style="font-variant:small-caps;">Convergent evolution of morphological integration in Indonesian shrews.</span>  
 Sponsored by [Graham Slater](https://fourdimensionalbiology.com/)  
 
