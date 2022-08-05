@@ -11,7 +11,7 @@ _National Science Foundation Postdoctoral Scholar based a the University of Chic
 >Dissertation: <span style="font-variant:small-caps;">Function, History, and Ecology in the Exceptional Diversification of Murine Rodents</span>  
 
 **2011 - 2014** | **BSc**, Biological Sciences, University of Alaska Fairbanks  
->Thesis: <span style="font-variant:small-caps;">Climbing behavior of northern red-backed voles (*Myodes rutilus*) and scansoriality in Myodes (Rodentia, Cricetidae)</span>  
+ Thesis: <span style="font-variant:small-caps;">Climbing behavior of northern red-backed voles (*Myodes rutilus*) and scansoriality in Myodes (Rodentia, Cricetidae)</span>  
 
 **2008 - 2011** | **ASc**, Science and Math, Seattle Central Community College
 
