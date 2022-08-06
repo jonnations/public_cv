@@ -2,7 +2,7 @@
 
 #### _National Science Foundation Postdoctoral Scholar based a the University of Chicago and the Field Museum of Natural History_ <br>
 
-[Email](mailto:jonnatiions@gmail.com) / [Website](https://jonnynations.com/) / [GitHub](https://github.com/jonnations/) 
+[Email](mailto:jonnations@gmail.com) / [Website](https://jonnynations.com/) / [GitHub](https://github.com/jonnations/) 
 
 ## Education
 
