@@ -99,7 +99,7 @@ Awarded to one student annually in the College of Natural Science and Mathematic
 **2022** \| **J.A. Nations**, B.A. Kohli, H. Handika, A.S. Achmadi, M.J. Polito, K.C. Rowe, J.A. Esselstyn. Trait-specific patterns of community ecospace occupancy in an insular mammal radiation. _In Review_. [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)  
 
 **2022** \| Wisniewski, A.L.\*, **J.A. Nations**\*, & G.J. Slater\*. 2022. Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa. _In Review_. [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.05.05.490807v1)  
-\*_Equak contribution_  
+\*_Equal contribution_  
 
 **2022** \| Swanson, M.T., A.S. Achmadi, **J.A. Nations**, M.W. Henson, H. Handika, S. Anita, K.C. Rowe, H. Bennadji, M.J. Polito & J.A. Esselstyn. Bacterial families variably associated with diet along the gut in a trophically diverse community of wild rodents. _In Review_.  
 
