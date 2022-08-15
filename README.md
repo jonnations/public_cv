@@ -6,66 +6,55 @@
 
 ## Education
 
-**2015 - 2020** \| **PhD**, Biological Sciences, Louisiana State University  
-Dissertation: <span style="font-variant:small-caps;">Function, history, and ecology in the exceptional diversification of murine rodents </span>  
+**2015 - 2020** \| **PhD**, Biological Sciences, Louisiana State University\par
+                     Dissertation: <span style="font-variant:small-caps;">Function, history, and ecology in the exceptional diversification of murine rodents </span>  
 
 **2011 - 2014** \| **BSc**, Biological Sciences, University of Alaska Fairbanks  
-Thesis: <span style="font-variant:small-caps;">Climbing behavior of northern red-backed voles and scansoriality in Myodes </span>  
+                     Thesis: <span style="font-variant:small-caps;">Climbing behavior of northern red-backed voles and scansoriality in Myodes </span>  
 
 **2008 - 2011** \| **ASc**, Science and Math, Seattle Central Community College  
 
 ## Recent Professional Experience  
 
-**2015 - 2018** \| **Curatorial Assistantship**, LSU Museum of Natural Science: Mammals Division.  
-<!-- Preparation and curation of mammal specimens and their associated data.
-Training and mentoring undergraduate students in curatorial methods and molecular lab work
-Animal Care and Use and LSU IACUC training.
--->  
+**2020 - 2023** \| **NSF Postdoctoral Research Fellowship in Biology**  
+                     Interdisciplinary Research Using Biological Collections  
+                     Title: <span style="font-variant:small-caps;">Convergent evolution of morphological integration in Indonesian shrews. </span>  
+                     Sponsored by [Graham Slater](https://fourdimensionalbiology.com/)
 
-**2014 - 2015** \| **Assistant Collections Manager**, University of Alaska Museum: Mammals Division.
-<!-- Preparation and curation of mammal specimens and their associated data. Training and mentoring undergraduate students in curatorial methods and molecular lab work. BEhind the scenes tours  
--->   
-
-**2011 - 2014** \| **Curatorial Assistant**, University of Alaska Museum: Mammals Division.  
-
-<!--()
-Preparation and curation of mammal specimens and their associated data.
-Behind­the­scenes tours of the research departments and collection range for public visitors.
-Student Conservation Association:
-Intern, Denali National Park, University of Alaska Museum, Summer 2014 & Summer 2015
-Training 3 underrepresented high school students in museum specimen preparation.
-Leading a crew of 15 high school students on a week-long survey of small mammals in Denali National Park.)
--->
-
+**2015 - 2018** \| **Curatorial Assistant**, LSU Museum of Natural Science: Mammals Division.  <!-- Preparation and curation of mammal specimens and their associated data. Training and mentoring undergraduate students in curatorial methods and molecular lab work. Animal Care and Use and LSU IACUC training. --> 
+  
+**2014 - 2015** \| **Assistant Collections Manager**, University of Alaska Museum: Mammals Division.  <!-- Preparation and curation of mammal specimens and their associated data. Training and mentoring undergraduate students in curatorial methods and molecular lab work. BEhind the scenes tours  -->  
+  
+**2014 - 2015** \| **Intern**, Student Conservation Association: Denali National Park & University of Alaska Museum <!--Leading a crew of 15 high school students on a week-long survey of small mammals in Denali National Park.)-->  
+  
+**2011 - 2014** \| **Curatorial Assistant**, University of Alaska Museum: Mammals Division.  <!--()
+Preparation and curation of mammal specimens and their associated data. Behind­the­scenes tours of the research departments and collection range for public visitors. -->  
+  
 ## Grants, Scholarships, and Awards  
-**2020** \| **American Society of Mammalogists Fellowship** *(\$20,000)*   
-The ASM Fellowship is the highest award made to a graduate student member of ASM.  
+**2020**\|              **American Society of Mammalogists Fellowship** *(\$20,000)*   
+<!--                     The ASM Fellowship is the highest award made to a graduate student member of ASM.  -->
 
-**2020-2023** \| **National Science Foundation Postdoctoral Research Fellowship in Biology**  
-Title: <span style="font-variant:small-caps;">Convergent evolution of morphological integration in Indonesian shrews. </span>   
-Sponsored by [Graham Slater](https://fourdimensionalbiology.com/)  
+**2020**\|              **LSU Museum of Natural Science Outstanding Graduate Student**  
 
-**2020** \| **LSU Museum of Natural Science Outstanding Graduate Student**  
+**2019** \|             **Louisiana State University Prestigious Graduate Fellowship Award** _(\$4,000)_   
+<!--                      Awarded to select students for funding dissertation research.   -->
 
-**2019** \| **Louisiana State University Prestigious Graduate Fellowship Award** _(\$4,000)_   
-Awarded to select students for funding dissertation research.  
+**2019** \|             **Research Triangle Nanotechnology Network Award** _(\$2,000)_   
+<!--                      Support to μCT scan museum specimens at Duke University.  -->
 
-**2019** \| **Research Triangle Nanotechnology Network Award** _(\$2,000)_   
-Support to μCT scan museum specimens at Duke University.  
+**2017** \|             **American Society of Mammalogists Patton Award** _(\$5,000)_  
+<!--                      Title: <span style="font-variant:small-caps;">Using museum specimens to understand how extraordinary diversity is maintained in the rodent communities of Sulawesi, Indonesia.</span>  -->
 
-**2017** \| **American Society of Mammalogists Patton Award** _(\$5,000)_  
-Title: <span style="font-variant:small-caps;">Using museum specimens to understand how extraordinary diversity is maintained in the rodent communities of Sulawesi, Indonesia.</span>  
+**2017** \|             **NSF East Asia Pacific Studies Institute Fellow** _(\$8,000)_   
+                       Sponsor: Dr. Kevin Rowe, Museums Victoria, Melbourne, Australia
 
-**2017** \| **National Science Foundation East Asia Pacific Studies Institute Fellow** _(\$8,000)_   
-Sponsor: Dr. Kevin Rowe, Museums Victoria, Melbourne, Australia  
+**2016** \|             **Society of Systematic Biologists Graduate Student Research Award** _(\$1200)_  
 
-**2016** \| **Society of Systematic Biologists Graduate Student Research Award** _(\$1200)_  
+**2016** \|             **American Society of Mammalogists Grant in Aid**: _(\$1,000)_   
 
-**2016** \| **American Society of Mammalogists Grant in Aid**: _(\$1,000)_   
+**2015 - 2020** \| **National Science Foundation Graduate Research Fellowship**   
 
-**2015** \| **National Science Foundation Graduate Research Fellowship**   
-
-**2014** \| **Outstanding Undergraduate Student in the Biological Sciences, University of Alaska Fairbanks**   
+**2014** \|             **Outstanding Undergraduate Student in the Biological Sciences, University of Alaska Fairbanks**   
 
 <!--
 **Brina Kessel Medal for Excellence in Science: 2013­2014 ($500)**
@@ -96,9 +85,9 @@ Awarded to one student annually in the College of Natural Science and Mathematic
 
 ## Publications
 
-**2022** \| **J.A. Nations**, B.A. Kohli, H. Handika, A.S. Achmadi, M.J. Polito, K.C. Rowe, J.A. Esselstyn. Trait-specific patterns of community ecospace occupancy in an insular mammal radiation. _In Review_. [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)  
+**2022** \| **J.A. Nations**, B.A. Kohli, H. Handika, A.S. Achmadi, M.J. Polito, K.C. Rowe, J.A. Esselstyn. Trait-specific patterns of community ecospace occupancy in an insular mammal radiation. _In Revision_. [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)  
 
-**2022** \| Wisniewski, A.L.\*, **J.A. Nations**\*, & G.J. Slater\*. 2022. Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa. _In Review_. [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.05.05.490807v1)  
+**2022** \| Wisniewski, A.L.\*, **J.A. Nations**\*, & G.J. Slater\*. 2022. Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa. _In Revision_. [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.05.05.490807v1)  
 \*_Equal contribution_  
 
 **2022** \| Swanson, M.T., A.S. Achmadi, **J.A. Nations**, M.W. Henson, H. Handika, S. Anita, K.C. Rowe, H. Bennadji, M.J. Polito & J.A. Esselstyn. Bacterial families variably associated with diet along the gut in a trophically diverse community of wild rodents. _In Review_.  

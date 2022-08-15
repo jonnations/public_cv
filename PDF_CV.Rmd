@@ -1,0 +1,218 @@
+---
+#output: stevetemplates::cv
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Jonathan A. Nations
+jobtitle: "NSF Postdoctoral Research Fellow"
+address: "Department of the Geophysical Sciences"
+jobtitle2: "University of Chicago "
+address2: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
+fontawesome: yes
+email: jonnations@gmail.com
+github: jonnations
+# twitter: stevenvmiller
+#osf: "Enter 5 digit osf string here"
+#phone: "+353 1 408 4800"
+web: jonnynations.com
+updated: TRUE
+rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
+
+keywords: R Markdown, academic CV, template
+
+#fontawesome: yes
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 12pt
+linkcolor: black
+urlcolor: black
+---
+## Education  
+  
+  
+**2015 - 2020** \| **PhD**, Biological Sciences, Louisiana State University\
+Dissertation: [Function, history, and ecology in the exceptional diversification of murine rodents]{.smallcaps}
+
+**2011 - 2014** \| **BSc**, Biological Sciences, University of Alaska Fairbanks\
+Thesis: [Climbing behavior of northern red-backed voles and scansoriality in *Myodes*]{.smallcaps}
+
+**2008 - 2011** \| **ASc**, Science and Math, Seattle Central Community College  
+<!--
+Spacing-->
+
+## Recent Professional Experience 
+\everypar{\hangindent=2.9cm \hangafter=1}
+
+\textbf{2020\enskip-\enskip2023}\enskip\|\enskip\textbf{NSF Postdoctoral Research Fellowship in Biology}  
+Interdisciplinary Research Using Biological Collections.
+<!--                   Title:<span style="font-variant:small-caps;">Convergent evolution of morphological integration in Indonesian shrews. </span>                       Sponsored by [Graham Slater](https://fourdimensionalbiology.com/)--> 
+
+\textbf{2015\enskip-\enskip2018}\enskip\|\enskip\textbf{Curatorial Assistantship}  
+Mammals Division, LSU Museum of Natural Science.   
+
+<!-- Preparation and curation of mammal specimens and their associated data. Training and mentoring undergraduate students in curatorial methods and molecular lab work. Animal Care and Use and LSU IACUC training.-->
+
+\textbf{2014\enskip-\enskip2015}\enskip\|\enskip\textbf{Assistant Collections Manager}  
+Mammals Division, University of Alaska Museum.  
+
+<!-- Preparation and curation of mammal specimens and their associated data. Training and mentoring undergraduate students in curatorial methods and molecular lab work. BEhind the scenes tours  -->
+
+\textbf{2014\enskip-\enskip2015}\enskip\|\enskip\textbf{Intern, Student Conservation Association}  
+Denali National Park & University of Alaska Museum.
+<!--Leading a crew of 15 high school students on a week-long survey of small mammals in Denali National Park.)--> 
+
+\textbf{2011\enskip-\enskip2014}\enskip\|\enskip\textbf{Curatorial Assistant}  
+Mammals Division, University of Alaska Museum.\
+<!--
+Spacing-->
+
+## Grants, Scholarships, and Awards  
+\everypar{\hangindent=1.8cm \hangafter=1}
+
+\textbf{2020}\enskip\|\enskip\textbf{American Society of Mammalogists Fellowship} *(\$20,000)*  
+The highest award made to a graduate student member of ASM.  
+
+\textbf{2020}\enskip\|\enskip\textbf{LSU Museum of Natural Science Outstanding Graduate Student}
+
+\textbf{2019}\enskip\|\enskip\textbf{Louisiana State University Prestigious Graduate Fellowship Award} *(\$4,000)*  
+Awarded to select students for funding dissertation research.
+
+\textbf{2019}\enskip\|\enskip\textbf{Research Triangle Nanotechnology Network Award} *(\$2,000)*
+
+<!--Support to μCT scan museum specimens at Duke University.  -->
+\textbf{2020}\enskip\|\enskip\textbf{American Society of Mammalogists Patton Award} *(\$5,000)*  
+<!--Title: [Using museum specimens to understand how extraordinary diversity is maintained in the rodent communities of Sulawesi, Indonesia.]{.smallcaps}-->
+
+\textbf{2017}\enskip\|\enskip\textbf{NSF East Asia Pacific Studies Institute Fellow} *(\$8,000)*  
+Sponsor: Dr. Kevin Rowe, Museums Victoria, Melbourne, Australia
+
+\textbf{2016}\enskip\|\enskip\textbf{Society of Systematic Biologists Graduate Student Research Award} *(\$1200)*
+
+\textbf{2016}\enskip\|\enskip\textbf{American Society of Mammalogists Grant in Aid} *(\$1,000)*
+
+\textbf{2015}\enskip\|\enskip\textbf{National Science Foundation Graduate Research Fellowship}
+
+\textbf{2015}\enskip\|\enskip\textbf{Outstanding Undergraduate Student in the Biological Sciences}  
+University of Alaska Fairbanks\
+<!--
+Spacing
+-->
+
+```{=html}
+<!--
+**Brina Kessel Medal for Excellence in Science: 2013­2014 ($500)**
+Awarded to one student annually in the College of Natural Science and Mathematics, UAF.
+
+**Summer Undergraduate Research Award, University of Alaska Fairbanks**: 2013 ($5000) 
+
+**American Society of Mammalogists Travel Award**: 2013 ($300)
+
+**First Place, Best Oral Presentation, UAF Research Day**: 2013 ($1,000)  
+
+**Summer Undergraduate Research Award, University of Alaska Fairbanks**: 2012 ($5,000)  
+-->
+```
+```{=html}
+<!--(Clean up 
+[//]: # (UAF Research Day: 2013. Winner, First Place, Best Oral Presentation ($1,000))   
+
+[comment]: # (To attend conference in Philadelphia, PA.    )  
+
+[comment]: # (Fred Beeler Memorial Scholarship: 2012­2013 ($3,000)  )  
+
+[comment]: # (Distributed by UAF to outstanding undergraduate students.  )  
+
+[comment]: # (Summer Undergraduate Research Award: 2012 ($5,000)    )  
+
+[comment]: # (Undergraduate Research and Scholarly Activity (URSA), University of Alaska, Fairbanks.)  )
+-->
+```
+```{=html}
+<!--
+Spacing
+-->
+```
+## Publications  
+\everypar{\hangindent=1.42cm \hangafter=1}
+
+ \linebreak  
+
+**2022** \| **J.A. Nations**, B.A. Kohli, H. Handika, A.S. Achmadi, M.J. Polito, K.C. Rowe, J.A. Esselstyn. Trait-specific patterns of community ecospace occupancy in an insular mammal radiation. *In Revision*. [link to bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)
+
+**2022** \| Wisniewski, A.L.\*, **J.A. Nations**\*, & G.J. Slater\*. 2022. Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa. *In Revision*. [link to bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.05.05.490807v1)\
+\**Equal contribution*
+
+**2022** \| Swanson, M.T., A.S. Achmadi, **J.A. Nations**, M.W. Henson, H. Handika, S. Anita, K.C. Rowe, H. Bennadji, M.J. Polito & J.A. Esselstyn. Bacterial families variably associated with diet along the gut in a trophically diverse community of wild rodents. *In Review*.
+
+**2021** \| Marcondes, R.S.\*, **J.A. Nations**\*, Seeholzer, G.F., & Brumfield, R.T. 2021. Rethinking Gloger's rule: climate, light environments, and color in a diverse family of tropical birds. The American Naturalist. 197(5): 592-606.\
+\**Joint first authorship*
+
+**2021** \| **Nations, J.A.**, G.G. Mount, S.M. Morere\*, A.S. Achmadi, K.C. Rowe, & J.A. Esselstyn. Locomotory mode transitions alter phenotypic evolution and lineage diversification in an ecologically rich clade of mammals. Evolution. 75(2): 376-393.\
+\**Undergraduate author*
+
+**2021** \| **Nations, J.A.**, A. Mursyid, R. Darma Busta, S.P. Adrian, H. Handika, Apandi, A.S. Achmadi, J.A. Esselstyn. An albino rat from West Sumatra, Indonesia represents the first report of albinism in a Sundaland rodent. Mammalia. 85(2): 168-172.
+
+**2020** \| Roycroft, E.J\*, **J.A. Nations**\*, & K.C. Rowe. Environment predicts repeated body size shifts in a recent radiation of Australian mammals. Evolution. 74(3): 671-680.\
+\**Joint first authorship*
+
+**2019** \| **Nations, J.A.**, L.R. Heaney, T.C. Demos, A.S. Achmadi, K.C. Rowe, & J.A. Esselstyn. A Simple Skeletal Measurement Effectively Predicts Climbing Behavior in Murine Rodents. Biological Journal of the Linnean Society. 128(2): 323-336.\
+*Selected for BJLS Ecomorphology Collection Virtual Issue*
+
+**2015** \| **Nations, J.A.** & L.E. Olson. 2015. Climbing behavior of northern red-backed voles (Myodes rutilus) and scansoriality in Myodes (Rodentia, Cricetidae). Journal of Mammalogy 96(5): 957--963.\
+<!--
+-->
+
+## Conference Presentations
+
+```{=html}
+<!--
+MANY TO ADD HERE!!!!
+Nations, J.A., E.J. Roycroft, K.C. Rowe. 2019. Bergmann’s Rule in a recent radiation of Australian mammals. Oral presentation. 94rd Annual Meeting of the American Society of Mammalogists: Washington D.C.
+Nations, J.A., E.J. Roycroft, K.C. Rowe. 2019. Environment predicts repeated body size shifts in a recent radiation of Australian mammals. Oral presentation. Evolution Joint Meeting, Providence, Rhode Island.
+Nations, J.A., J.A. Esselstyn, K.C. Rowe, A.S. Achmadi. 2018. The biogeography of murine locomotion across the Indo-Australian Archipelago. Poster. Evolution Joint Meeting, Montpellier, France.
+Nations, J.A., J.A. Esselstyn, K.C. Rowe, A.S. Achmadi. 2018. Oral presentation. The role of locomotor mode in lineage turnover and persistence among Indo-Australian rats and mice. Oral presentation. 93rd Annual Meeting of the American Society of Mammalogists: Manhattan, KS.
+Nations, J.A., J.A. Esselstyn, K.C. Rowe, A.S. Achmadi. 2017. The role of in-situ speciation in the generation of biodiversity across the Indo-Australian Archipelago. Oral presentation.12th International Mammalogical Congress, Perth, Western Australia, Australia.
+Nations, J.A. & L.E. Olson. 2016. How do voles adapt? Ecomorphology of small-bodied North American rodents. Oral presentation. 96th Annual Meeting of the American Society of Mammalogists, Minneapolis, MN.
+Nations, J.A. & L.E. Olson. 2016. Ecomorphological variation in the limbs of small-bodied “generalists:” a test case with voles. Oral presentation. Evolution Conference, Austin, TX.
+Nations, J.A. & L.E. Olson. 2014. Is climbing behavior reflected in the morphology of scansorial voles? Oral presentation. 94th Annual Meeting of the American Society of Mammalogists, Oklahoma City, OK.
+Nations, J.A. & L.E. Olson. 2013. Scansorial behavior in the Northern Red­backed Vole (Myodes rutilus). Oral Presentation. 93rd Annual Meeting of the American Society of Mammalogists: Philadelphia, PA.
+Nations, J.A. 2013. Climbing in the Northern Red­backed Vole (Myodes rutilus). Oral Presentation. University of Alaska Fairbanks Research Day. Winner: 1st place, Best Oral Presentation.
+Nations, J.A., E. Fitzgerald, J. Whorley. 2011. The effects of habitat size on small mammal diversity in Seattle City Parks. Poster. 91st Meeting of the American Society of Mammalogists, Portland, OR.
+Nations, J.A., E. Fitzgerald, J. Whorley. 2010 Small mammal diversity in Seattle City Parks. Poster. Mary Gates Undergraduate Research Symposium; University of Washington.
+-->
+```
+## Invited Presentations
+
+```{=html}
+<!--
+Sienna, EvoMorph, Canada Museum, 
+-->
+```
+## Outreach, Leadership, & Mentorship
+
+## Teaching
+
+## Professional service
+```
+ASM commitees :
+Reviewer: The American Naturalist, Systematic Biology, Evolution, Journal of Mammalogy, Therya, Zoological Research, Journal of Mammalian Evolution, Mammalian Species, Royal Society Open Science, PeerJ
+Ad-hoc reviewer: NSF CAREER Program
+```
+
+## FieldworK: Museum Collection Expeditions
+
+```{=html}
+<!--
+Mt. Murud, Sarawak, Malaysia, July - August 2019
+Mt. Singgalang, West Sumatra, Indonesia, November - December 2018
+Mt. Talamau, West Sumatra, Indonesia, February - April 2018
+Mt. Mulu, Sarawak, Malaysia, February – March 2017
+Louisiana, 5 field expeditions, 2015 - 2017
+Alaska, 10+ field expeditions, 2012 - 2015
+
+-->
+```
