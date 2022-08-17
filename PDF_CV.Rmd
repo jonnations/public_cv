@@ -4,14 +4,14 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: svm-latex-cv.tex
-geometry: margin=1in
+geometry: margin=0.8in
 
 title: "CV"
 author: Jonathan A. Nations
 jobtitle: "NSF Postdoctoral Research Fellow"
 address: "Department of the Geophysical Sciences"
 jobtitle2: "University of Chicago "
-address2: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
+#address2: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
 fontawesome: yes
 email: jonnations@gmail.com
 github: jonnations
@@ -162,18 +162,13 @@ Spacing-->
 *Travelouge: "Small Mammals in Ouachita National Forest, Arkansas*  \
 
 
-```{=html}
-<!--
-Sienna, EvoMorph, Canada Museum, what else?
--->
-```
 ## Conference Presentations
 \everypar{\hangindent=1.42cm \hangafter=1}
 
 **2022** \| American Society of Mammalogists Annual Meeting, Tucson, AZ  
 *Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa*
 
-**2021** \| *Plenary Address* - American Society of Mammalogists Annual Meeting  
+**2021** \|  - American Society of Mammalogists Annual Meeting - Plenary Session, Virtual Meeting
 *Niche packing, niche expansion, and the evolution of the exceptional rodent fauna of Sulawesi, Indonesia*  
 
 **2019** \| American Society of Mammalogists Annual Meeting, Washington D.C.  
@@ -216,92 +211,93 @@ Sienna, EvoMorph, Canada Museum, what else?
 
 **2010** \| Mary Gates Undergrad Research Symposium; University of Washington \**poster*  
 *Small mammal diversity in Seattle City Parks*  \
-```{=html}
-<!--
-MANY TO ADD HERE!!!!
-Nations, J.A., E.J. Roycroft, K.C. Rowe. 2019. Bergmann’s Rule in a recent radiation of Australian mammals. Oral presentation. 94rd Annual Meeting of the American Society of Mammalogists: Washington D.C.
-Nations, J.A., E.J. Roycroft, K.C. Rowe. 2019. Environment predicts repeated body size shifts in a recent radiation of Australian mammals. Oral presentation. Evolution Joint Meeting, Providence, Rhode Island.
-Nations, J.A., J.A. Esselstyn, K.C. Rowe, A.S. Achmadi. 2018. The biogeography of murine locomotion across the Indo-Australian Archipelago. Poster. Evolution Joint Meeting, Montpellier, France.
-Nations, J.A., J.A. Esselstyn, K.C. Rowe, A.S. Achmadi. 2018. Oral presentation. The role of locomotor mode in lineage turnover and persistence among Indo-Australian rats and mice. Oral presentation. 93rd Annual Meeting of the American Society of Mammalogists: Manhattan, KS.
-Nations, J.A., J.A. Esselstyn, K.C. Rowe, A.S. Achmadi. 2017. The role of in-situ speciation in the generation of biodiversity across the Indo-Australian Archipelago. Oral presentation.12th International Mammalogical Congress, Perth, Western Australia, Australia.
-Nations, J.A. & L.E. Olson. 2016. How do voles adapt? Ecomorphology of small-bodied North American rodents. Oral presentation. 96th Annual Meeting of the American Society of Mammalogists, Minneapolis, MN.
-Nations, J.A. & L.E. Olson. 2016. Ecomorphological variation in the limbs of small-bodied “generalists:” a test case with voles. Oral presentation. Evolution Conference, Austin, TX.
-Nations, J.A. & L.E. Olson. 2014. Is climbing behavior reflected in the morphology of scansorial voles? Oral presentation. 94th Annual Meeting of the American Society of Mammalogists, Oklahoma City, OK.
-Nations, J.A. & L.E. Olson. 2013. Scansorial behavior in the Northern Red­backed Vole (Myodes rutilus). Oral Presentation. 93rd Annual Meeting of the American Society of Mammalogists: Philadelphia, PA.
-Nations, J.A. 2013. Climbing in the Northern Red­backed Vole (Myodes rutilus). Oral Presentation. University of Alaska Fairbanks Research Day. Winner: 1st place, Best Oral Presentation.
-Nations, J.A., E. Fitzgerald, J. Whorley. 2011. The effects of habitat size on small mammal diversity in Seattle City Parks. Poster. 91st Meeting of the American Society of Mammalogists, Portland, OR.
-Nations, J.A., E. Fitzgerald, J. Whorley. 2010 Small mammal diversity in Seattle City Parks. Poster. Mary Gates Undergraduate Research Symposium; University of Washington.
--->
-```
 
-## Outreach, Leadership, & Mentorship
-
-## Mentorship & Training
-\everypar{\hangindent=1.43cm \hangafter=1}
+## Mentorship
+\everypar{\hangindent=1.3cm \hangafter=1}
 
 **Undergraduates** \|  
 **Shelby Oliveaux** (*2019-20 - LSU - Collecting and processing geometric morphometric data*), **Collin Cooper** (*2019-20 - LSU - Processing microCT scan data for 3D morphometrics*), **Finaz Wan Azman**, **Syam Zurain** (*2019 - University of Malaysia, Sarawak - Collection and preparation of museum specimens and associated tissue samples*) **Ahmad Mursyid**, **Ryski Darma Busta**, **Taufiq Afdhal**, **Andri Saputra**, **Tengku Lidra**, **Sah Putra Adrian** (*2018 - Andalas University, Padang, Indonesia - Collection and preparation of museum specimens and associated tissue samples*), **Derra Leonard** (*2016-2019 -  Curatorial Assistant*), **Sara Morere** (*2016 -  Research on locomotor modes of murine rodents (manuscript co-author)*),	**Rajvi Jariwala**, **Shay Cook** (*2015-2016 - LSU - Curatorial methods and molecular lab work*), **Chris Reglan** (*2015-2016 - LSU - Curatorial methods*), **Sarah Swanson** (*2014-2015 - University of Alaska Museum - Identification, preparation and curation of museum specimens from Denali National Park*)
 
 **High School Students** \|  
-**Stefania Kremer**, **Briana Kremer**,   (*2014-2015 - University of Alaska Museum - Identification, preparation and curation of museum specimens from Denali National Park*),
+**Stefania Kremer**, **Briana Kremer** (*2014-2015 - University of Alaska Museum - Identification, preparation and curation of museum specimens from Denali National Park*)\
 
 
-```{=html}
-<!--
-Undergraduate Research Mentor, Fall: 2020
-I am currently mentoring LSU Freshman Shelby Oliveaux in collecting and processing geometric morphometric
-data of Southeast Asian shrew crania for species delimitation.
-Undergraduate Research Mentor, Fall: 20194
-I mentored LSU Freshman Collin Cooper in processing microCT scan data and three-dimensional geometric
-morphometric methods. This work serves as a foundation for my dissertation research.
-Teaching Assistant: BIOL 4141, Mammalogy: 2017
-Lab instruction using museum specimens to teach the evolution and systematics of class Mammalia.
-Co-founder, Museum Experience for Undergraduates: 2016
-The mission of the program is to mold the next generation of museum researchers and advocates by exposing
-undergraduate students to the study of natural history, both locally and globally.
-Mammal Survey Field Training: Ecology & Management of Louisiana Wildlife: 2016-2019
-Training Renewable Natural Resource Students in small mammal surveying, handling, and identification.
-Undergraduate Research Mentor, Summer: 2016
-I mentored LSU Education Undergraduate Sara Morere on a summer-long project to generate a database of
-murine rodent locomotor behavior. Sara is a co-author on Locomotory mode transitions alter phenotypic
-evolution and lineage diversification in an ecologically rich clade of mammals.
-Field Weekend, BIOL 4102 Mammalogy: 2015
-Training of 12 undergraduate students in mammal field survey. Kisatchie National Forests, Louisiana.
-Recent Outreach Events:
-Special Saturday: “Bust a Move: Mammal Locomotion” 2020
-I organized and led an event for children on mammal locomotion at the LSU Museum of Natural Science.
-Night at the Museum: Mammals: 2016, 2017, & 2018
-Museum specimen preparation demonstration and public engagement on the value of museum specimens
-Fall Fest: 2015, 2016, & 2018
-Engaging with undergraduate students on the behalf of the LSU Museum of Natural Science.
-East Baton Rouge Parish Bio-Blitz: 2016
-Public education on small mammal surveys, undergraduate training on effective camera-trapping techniques.
-Behind-the-scenes Tours of LSU Museum of Natural Science: 2015-2020
-I regularly lead tours of the LSUMNS to undergraduate and graduate students, along with members of the
-general public.
--->
-```
-## Teaching
+## Teaching & Training
+\everypar{\hangindent=1.4cm \hangafter=1}
 
-## Professional service
-```{=html}
-<!--
-ASM commitees :
-Reviewer: The American Naturalist, Systematic Biology, Evolution, Journal of Mammalogy, Therya, Zoological Research, Journal of Mammalian Evolution, Mammalian Species, Royal Society Open Science, PeerJ
-Ad-hoc reviewer: NSF CAREER Program
--->
-```
+**2021** \| **GitHub & version control in RStudio**: Mini-workshop at the Department of the Geophysical Sciences, U Chicago  
+
+**2019** \| **Ecology & Management of Louisiana Wildlife**: Invited Instructor, LSU  
+Trained a team of students in small mammal surveying, handling, and identification  
+
+**2018** \| **Ecology & Management of Louisiana Wildlife**: Invited Instructor, LSU  
+
+**2017** \| **Mammalogy**: Teaching Assistant, LSU  
+
+**2017** \| **Ecology & Management of Louisiana Wildlife**: Invited Instructor, LSU  
+
+**2016** \| **Museum Experience for Undergraduates**: Co-founder, LSU  
+"*Our mission is to train the next generation of museum researchers and advocates by exposing undergraduate students to the study of natural history, both locally and globally*."
+
+**2015** \| **Mammalogy**: Invited Instructor, LSU  
+Lead 12 undergraduate Mammalogy students on a field survey. Kisatchie National Forests, LA \
+
+## Outreach
+\everypar{\hangindent=1.43cm \hangafter=1}
+
+**2022** \| **U Chicago Southside Science Festival**: Public science festival. *Upcoming*  
+
+**2021** \| **"Squirrel Expert"**: Kindergarten Class, The Philadelphia School  
+
+**2020** \| **LSU Museum Special Saturdays**: *Bust A Move - Mammal Locomotion*. Presentation and activities on mammal locomotion for ages 5-12  
+
+**2019** \| **LSU Night at the Museum - Mammals**: Museum specimen preparation demonstration, behind the scenes tours, and public engagement on the value of museum specimens  
+
+**2019** \| **LSU Museum Special Saturdays**: *Life in the Mountains*  
+
+**2017** \| **LSU Fall Fest**: Engaging with undergraduate students on the behalf of the LSU Museum of Natural Science
+
+**2017** \| **LSU Night at the Museum - Mammals**  
+
+**2017** \| **LSU Museum Special Saturdays**: *Risky Rodents*  
+
+**2016** \| **LSU Fall Fest**
+
+**2016** \| **LSU Museum 6th Grade Day**: Hosting local 6th grade students from around the Parish  
+
+**2016** \| **Bio-Blitz - East Baton Rouge Parish**: Surveying small mammals in EBR Parish parks  
+
+**2016** \| **LSU Fall Fest**  
+
+**2015** \| **LSU Fall Fest**  \
+
+## Professional Service
+\everypar{\hangindent=1.43cm \hangafter=1}
+
+\textbf{2019\enskip-\enskip present}\enskip\|\enskip\textbf Nomenclature Committee, American Society of Mammalogists  
+
+\textbf{2019\enskip-\enskip present}\enskip\|\enskip\textbf Biodiversity Committee, American Society of Mammalogists  
+*Member of Muroidea taxonomic working group*
+
+\textbf{2022\enskip-\enskip present}\enskip\|\enskip\textbf Grants in Aid Committee, American Society of Mammalogists  
+
+**Journal Peer Review** \| The American Naturalist, Systematic Biology, Evolution, Journal of Mammalogy, Therya, Zoological Research, Journal of Mammalian Evolution, Mammalian Species, Royal Society Open Science, PeerJ  
+
+**Grant Review** \| NSF CAREER Program (*Ad hoc reviewer*), American Society of Mammalogists Grants in Aid (*upcoming*)\
+
 
 ## Fieldwork: Museum Collection Expeditions
-
-```{=html}
-<!--
-Mt. Murud, Sarawak, Malaysia, July - August 2019
-Mt. Singgalang, West Sumatra, Indonesia, November - December 2018
-Mt. Talamau, West Sumatra, Indonesia, February - April 2018
-Mt. Mulu, Sarawak, Malaysia, February – March 2017
-Louisiana, 5 field expeditions, 2015 - 2017
-Alaska, 10+ field expeditions, 2012 - 2015
-
--->
-```
+\begin{itemize}[noitemsep]
+    \item Mt. Murud, Sarawak, Malaysia, 2019
+    \item Mt. Singgalang, West Sumatra, Indonesia, 2018
+    \item Mt. Talamau, West Sumatra, Indonesia, 2018
+    \item Mt. Mulu, Sarawak, Malaysia, 2017
+    \item Louisiana, various, 2015 - 2018
+    \item Ouachita National Forest, Arkansas, 2015
+    \item Denali National Park, Alaska, 2015
+    \item Tongass National Forest, Juneau, Alaska, 2014  
+    \item Chugach National Forest, Valdez, Alaska, 2014  
+    \item Toolik Field Station, North Slope, Alaska, 2013  
+    \item White Mountain Recreational Area, Alaska, various 2012 - 2015  
+    \item Fairbanks Area, Alaska, various, 2011 - 2015  
+\end{itemize}

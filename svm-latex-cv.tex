@@ -170,19 +170,18 @@ $endfor$
 
 % Custom section fonts
 \usepackage{sectsty}
-\sectionfont{\rmfamily\mdseries\large\bf}
-\subsectionfont{\rmfamily\mdseries\normalsize\scshape}
+\sectionfont{\rmfamily\series\large\bf}
+\subsectionfont{\rmfamily\mdseries\large\scshape}
 
 
 % Make lists without bullets
-\renewenvironment{itemize}{
-  \begin{list}{}{
-    \setlength{\leftmargin}{1.5em}
-  }
-}{
-  \end{list}
-}
-
+%\renewenvironment{itemize}{
+ % \begin{list}{}{
+%    \setlength{\leftmargin}{1.5em}
+%  }
+%}{
+%  \end{list}
+%}
 
 % Make parskips rather than indent with lists.
 \usepackage{parskip}
@@ -193,17 +192,20 @@ $endfor$
 % Use fontawesome. Note: you'll need TeXLive 2015. Update.
 $if(fontawesome)$\usepackage{fontawesome}$endif$
 
+% JAN - I Removed this, i was getting 2 page numbers a the bottom, a "1" and in bottom right, a "1/7". 
+% This removed the 1/7 one. 
+
 % Fancyhdr, as I tend to do with these personal documents.
-\usepackage{fancyhdr,lastpage}
-\pagestyle{fancy}
-\renewcommand{\headrulewidth}{0.0pt}
-\renewcommand{\footrulewidth}{0.0pt}
-\lhead{}
-\chead{}
-\rhead{}
-\lfoot{
-\cfoot{\scriptsize  $author-meta$ - $title$ }}
-\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+%\usepackage{fancyhdr,lastpage}
+%\pagestyle{fancy}
+%\renewcommand{\headrulewidth}{0.0pt}
+%\renewcommand{\footrulewidth}{0.0pt}
+%\lhead{}
+%\chead{}
+%\rhead{}
+%\lfoot{
+%\cfoot{\scriptsize  $author-meta$ - $title$ }}
+%\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
 
 % Always load hyperref last.
 \usepackage{hyperref}
@@ -233,6 +235,8 @@ $endif$
 \usepackage{datetime}
 \newdateformat{apstylekinda}{%
   \shortmonthname[\THEMONTH]. \THEDAY, \THEYEAR}
+
+%\usepackage[scale=0.75, top=1.5cm, bottom = 1.5cm, left = 1.7cm, right = 1.7cm]{geometry} % Reduce document margins
 
 \begin{document}
 
