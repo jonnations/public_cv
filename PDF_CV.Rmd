@@ -32,13 +32,14 @@ linkcolor: black
 urlcolor: black
 ---
 ## Education  
+\everypar{\hangindent=2.9cm \hangafter=1}
   
   
 **2015 - 2020** \| **PhD**, Biological Sciences, Louisiana State University\
 Dissertation: [Function, history, and ecology in the exceptional diversification of murine rodents]{.smallcaps}
 
 **2011 - 2014** \| **BSc**, Biological Sciences, University of Alaska Fairbanks\
-Thesis: [Climbing behavior of northern red-backed voles and scansoriality in *Myodes*]{.smallcaps}
+Undergraduate Thesis: [Climbing behavior of northern Red-backed voles and scansoriality in *Myodes*]{.smallcaps}
 
 **2008 - 2011** \| **ASc**, Science and Math, Seattle Central Community College  
 <!--
@@ -49,21 +50,18 @@ Spacing-->
 
 \textbf{2020\enskip-\enskip2023}\enskip\|\enskip\textbf{NSF Postdoctoral Research Fellowship in Biology}  
 Interdisciplinary Research Using Biological Collections.
-<!--                   Title:<span style="font-variant:small-caps;">Convergent evolution of morphological integration in Indonesian shrews. </span>                       Sponsored by [Graham Slater](https://fourdimensionalbiology.com/)--> 
 
 \textbf{2015\enskip-\enskip2018}\enskip\|\enskip\textbf{Curatorial Assistantship}  
 Mammals Division, LSU Museum of Natural Science.   
 
-<!-- Preparation and curation of mammal specimens and their associated data. Training and mentoring undergraduate students in curatorial methods and molecular lab work. Animal Care and Use and LSU IACUC training.-->
 
 \textbf{2014\enskip-\enskip2015}\enskip\|\enskip\textbf{Assistant Collections Manager}  
 Mammals Division, University of Alaska Museum.  
 
-<!-- Preparation and curation of mammal specimens and their associated data. Training and mentoring undergraduate students in curatorial methods and molecular lab work. BEhind the scenes tours  -->
 
 \textbf{2014\enskip-\enskip2015}\enskip\|\enskip\textbf{Intern, Student Conservation Association}  
 Denali National Park & University of Alaska Museum.
-<!--Leading a crew of 15 high school students on a week-long survey of small mammals in Denali National Park.)--> 
+
 
 \textbf{2011\enskip-\enskip2014}\enskip\|\enskip\textbf{Curatorial Assistant}  
 Mammals Division, University of Alaska Museum.\
@@ -71,75 +69,44 @@ Mammals Division, University of Alaska Museum.\
 Spacing-->
 
 ## Grants, Scholarships, and Awards  
-\everypar{\hangindent=1.8cm \hangafter=1}
+\everypar{\hangindent=1.6cm \hangafter=1}
 
 \textbf{2020}\enskip\|\enskip\textbf{American Society of Mammalogists Fellowship} *(\$20,000)*  
-The highest award made to a graduate student member of ASM.  
 
 \textbf{2020}\enskip\|\enskip\textbf{LSU Museum of Natural Science Outstanding Graduate Student}
 
 \textbf{2019}\enskip\|\enskip\textbf{Louisiana State University Prestigious Graduate Fellowship Award} *(\$4,000)*  
-Awarded to select students for funding dissertation research.
 
 \textbf{2019}\enskip\|\enskip\textbf{Research Triangle Nanotechnology Network Award} *(\$2,000)*
 
 <!--Support to μCT scan museum specimens at Duke University.  -->
 \textbf{2020}\enskip\|\enskip\textbf{American Society of Mammalogists Patton Award} *(\$5,000)*  
-<!--Title: [Using museum specimens to understand how extraordinary diversity is maintained in the rodent communities of Sulawesi, Indonesia.]{.smallcaps}-->
 
 \textbf{2017}\enskip\|\enskip\textbf{NSF East Asia Pacific Studies Institute Fellow} *(\$8,000)*  
-Sponsor: Dr. Kevin Rowe, Museums Victoria, Melbourne, Australia
+Sponsor: Dr. Kevin Rowe, Museums Victoria, Melbourne, Australia  
 
-\textbf{2016}\enskip\|\enskip\textbf{Society of Systematic Biologists Graduate Student Research Award} *(\$1200)*
+\textbf{2016}\enskip\|\enskip\textbf{Society of Systematic Biologists Graduate Student Research Award} *(\$1,200)*  
 
-\textbf{2016}\enskip\|\enskip\textbf{American Society of Mammalogists Grant in Aid} *(\$1,000)*
+\textbf{2016}\enskip\|\enskip\textbf{American Society of Mammalogists Grant in Aid} *(\$1,000)*  
 
-\textbf{2015}\enskip\|\enskip\textbf{National Science Foundation Graduate Research Fellowship}
+\textbf{2015}\enskip\|\enskip\textbf{National Science Foundation Graduate Research Fellowship}  
 
-\textbf{2015}\enskip\|\enskip\textbf{Outstanding Undergraduate Student in the Biological Sciences}  
-University of Alaska Fairbanks\
+\textbf{2014}\enskip\|\enskip\textbf{Outstanding Undergraduate Student in the Biological Sciences, UAF}  
+
+\textbf{2014}\enskip\|\enskip\textbf{Brina Kessel Medal for Excellence in Science, UAF} *(\$500)*  
+
+\textbf{2013}\enskip\|\enskip\textbf{Summer Undergraduate Research Award, UAF} *(\$5000)*  
+
+\textbf{2013}\enskip\|\enskip\textbf{American Society of Mammalogists Travel Award} *(\$300)*  
+
+\textbf{2012}\enskip\|\enskip\textbf{Summer Undergraduate Research Award, UAF} *(\$5000)*\
+
+
 <!--
-Spacing
--->
+Spacing-->  
 
-```{=html}
-<!--
-**Brina Kessel Medal for Excellence in Science: 2013­2014 ($500)**
-Awarded to one student annually in the College of Natural Science and Mathematics, UAF.
-
-**Summer Undergraduate Research Award, University of Alaska Fairbanks**: 2013 ($5000) 
-
-**American Society of Mammalogists Travel Award**: 2013 ($300)
-
-**First Place, Best Oral Presentation, UAF Research Day**: 2013 ($1,000)  
-
-**Summer Undergraduate Research Award, University of Alaska Fairbanks**: 2012 ($5,000)  
--->
-```
-```{=html}
-<!--(Clean up 
-[//]: # (UAF Research Day: 2013. Winner, First Place, Best Oral Presentation ($1,000))   
-
-[comment]: # (To attend conference in Philadelphia, PA.    )  
-
-[comment]: # (Fred Beeler Memorial Scholarship: 2012­2013 ($3,000)  )  
-
-[comment]: # (Distributed by UAF to outstanding undergraduate students.  )  
-
-[comment]: # (Summer Undergraduate Research Award: 2012 ($5,000)    )  
-
-[comment]: # (Undergraduate Research and Scholarly Activity (URSA), University of Alaska, Fairbanks.)  )
--->
-```
-```{=html}
-<!--
-Spacing
--->
-```
 ## Publications  
 \everypar{\hangindent=1.42cm \hangafter=1}
-
- \linebreak  
 
 **2022** \| **J.A. Nations**, B.A. Kohli, H. Handika, A.S. Achmadi, M.J. Polito, K.C. Rowe, J.A. Esselstyn. Trait-specific patterns of community ecospace occupancy in an insular mammal radiation. *In Revision*. [link to bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)
 
@@ -154,7 +121,8 @@ Spacing
 **2021** \| **Nations, J.A.**, G.G. Mount, S.M. Morere\*, A.S. Achmadi, K.C. Rowe, & J.A. Esselstyn. Locomotory mode transitions alter phenotypic evolution and lineage diversification in an ecologically rich clade of mammals. Evolution. 75(2): 376-393.\
 \**Undergraduate author*
 
-**2021** \| **Nations, J.A.**, A. Mursyid, R. Darma Busta, S.P. Adrian, H. Handika, Apandi, A.S. Achmadi, J.A. Esselstyn. An albino rat from West Sumatra, Indonesia represents the first report of albinism in a Sundaland rodent. Mammalia. 85(2): 168-172.
+**2021** \| **Nations, J.A.**, A. Mursyid\*, R. Darma Busta\*, S.P. Adrian\*, H. Handika, Apandi, A.S. Achmadi, J.A. Esselstyn. An albino rat from West Sumatra, Indonesia represents the first report of albinism in a Sundaland rodent. Mammalia. 85(2): 168-172.
+\**Undergraduate author*
 
 **2020** \| Roycroft, E.J\*, **J.A. Nations**\*, & K.C. Rowe. Environment predicts repeated body size shifts in a recent radiation of Australian mammals. Evolution. 74(3): 671-680.\
 \**Joint first authorship*
@@ -166,8 +134,88 @@ Spacing
 <!--
 -->
 
-## Conference Presentations
+## Invited & Departmental Seminars
+\everypar{\hangindent=1.42cm \hangafter=1}
 
+**2022** \| Departmental Seminar, Canadian Natural History Museum, Ottowa, ON  
+*Modern take on the classics: Using probabilistic methods to investigate ecogeographical theories in understudied vertebrate groups*  
+
+**2021** \| EvMorph Seminar, University of Chicago, Chicago, IL  
+*Function, history, and ecology in two exceptional (and exceptionally different) mammal radiations*  
+
+**2021** \| Departmental Seminar, Sienna College, Loudonville, NY  
+*Function, history, and ecology in the exceptional diversification of murine rodents*  
+
+**2019** \| LSU Museum of Natural Science Seminar, Baton Rouge, LA  
+*Travelouge: Gunung Murud Expedition, Sarawak, Malaysia, July – August 2019*  
+
+**2019** \| LSU Museum of Natural Science Seminar, Baton Rouge, LA  
+*Travelouge: "The Giant Rat of Sumatra:" Gunung Singgalang, West Sumatra, Indonesia*  
+
+**2018** \| Biology Seminar, Andalas University, Padang, West Sumatra, Indonesia  
+*The importance of museum specimens in the study of natural history*  
+
+**2017** \| LSU Museum of Natural Science Seminar, Baton Rouge, LA  
+*Travelouge: "Field Work in Borneo: Mt. Mulu, Sarawak, Malaysia*  
+
+**2015** \| LSU Museum of Natural Science Seminar, Baton Rouge, LA  
+*Travelouge: "Small Mammals in Ouachita National Forest, Arkansas*  \
+
+
+```{=html}
+<!--
+Sienna, EvoMorph, Canada Museum, what else?
+-->
+```
+## Conference Presentations
+\everypar{\hangindent=1.42cm \hangafter=1}
+
+**2022** \| American Society of Mammalogists Annual Meeting, Tucson, AZ  
+*Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa*
+
+**2021** \| *Plenary Address* - American Society of Mammalogists Annual Meeting  
+*Niche packing, niche expansion, and the evolution of the exceptional rodent fauna of Sulawesi, Indonesia*  
+
+**2019** \| American Society of Mammalogists Annual Meeting, Washington D.C.  
+*Bergmann’s Rule in a recent radiation of Australian mammals*   
+
+**2019** \| Evolution, Providence, RI  
+*Environment predicts repeated body size shifts in a recent radiation of Australian mammals*  
+
+**2019** \| LSU BioGrads Symposium, Baton Rouge, LA  \**poster*  
+*The locomotion and biogeography of Indo-Australian Archipelago rodents*  
+*Winner - Best Poster*  
+
+**2018** \| Evolution, Montpellier, France  \**poster*  
+*The biogeography of murine locomotion across the Indo-Australian Archipelago*  
+
+**2018** \| American Society of Mammalogists Annual Meeting, Manhattan, KS  
+*The role of locomotor mode in lineage turnover and persistence among Indo-Australian rats and mice*   
+
+**2017** \| 12th International Mammalogical Congress, Perth, Australia  
+*The role of in-situ speciation in the generation of biodiversity across the Indo-Australian Archipelago*   
+
+**2016** \| American Society of Mammalogists Annual Meeting, Minneapolis, MN  
+*How do voles adapt? Ecomorphology of small-bodied North American rodents*  
+
+**2016** \| Evolution, Austin, TX  
+*Ecomorphological variation in the limbs of small-bodied “generalists:” a test case with voles*  
+
+**2014** \| American Society of Mammalogists Annual Meeting, Oklahoma City, OK  
+*Is climbing behavior reflected in the morphology of scansorial voles?*  
+
+**2013** \| American Society of Mammalogists Annual Meeting, Philadelphia, PA  
+*Climbing in the Northern Red-backed Vole (Myodes rutilus)*  
+
+**2013** \| UAF Undergraduate Research Day, Fairbanks, AK  
+*Climbing in the Northern Red-backed Vole (Myodes rutilus)*  
+*Winner: Best Oral Presentation*
+
+**2011** \| American Society of Mammalogists Annual Meeting, Portland, OR  \**poster*  
+*The effects of habitat size on small mammal diversity in Seattle City Parks*  
+
+**2010** \| Mary Gates Undergrad Research Symposium; University of Washington \**poster*  
+*Small mammal diversity in Seattle City Parks*  \
 ```{=html}
 <!--
 MANY TO ADD HERE!!!!
@@ -185,25 +233,66 @@ Nations, J.A., E. Fitzgerald, J. Whorley. 2011. The effects of habitat size on s
 Nations, J.A., E. Fitzgerald, J. Whorley. 2010 Small mammal diversity in Seattle City Parks. Poster. Mary Gates Undergraduate Research Symposium; University of Washington.
 -->
 ```
-## Invited Presentations
+
+## Outreach, Leadership, & Mentorship
+
+## Mentorship & Training
+\everypar{\hangindent=1.43cm \hangafter=1}
+
+**Undergraduates** \|  
+**Shelby Oliveaux** (*2019-20 - LSU - Collecting and processing geometric morphometric data*), **Collin Cooper** (*2019-20 - LSU - Processing microCT scan data for 3D morphometrics*), **Finaz Wan Azman**, **Syam Zurain** (*2019 - University of Malaysia, Sarawak - Collection and preparation of museum specimens and associated tissue samples*) **Ahmad Mursyid**, **Ryski Darma Busta**, **Taufiq Afdhal**, **Andri Saputra**, **Tengku Lidra**, **Sah Putra Adrian** (*2018 - Andalas University, Padang, Indonesia - Collection and preparation of museum specimens and associated tissue samples*), **Derra Leonard** (*2016-2019 -  Curatorial Assistant*), **Sara Morere** (*2016 -  Research on locomotor modes of murine rodents (manuscript co-author)*),	**Rajvi Jariwala**, **Shay Cook** (*2015-2016 - LSU - Curatorial methods and molecular lab work*), **Chris Reglan** (*2015-2016 - LSU - Curatorial methods*), **Sarah Swanson** (*2014-2015 - University of Alaska Museum - Identification, preparation and curation of museum specimens from Denali National Park*)
+
+**High School Students** \|  
+**Stefania Kremer**, **Briana Kremer**,   (*2014-2015 - University of Alaska Museum - Identification, preparation and curation of museum specimens from Denali National Park*),
+
 
 ```{=html}
 <!--
-Sienna, EvoMorph, Canada Museum, 
+Undergraduate Research Mentor, Fall: 2020
+I am currently mentoring LSU Freshman Shelby Oliveaux in collecting and processing geometric morphometric
+data of Southeast Asian shrew crania for species delimitation.
+Undergraduate Research Mentor, Fall: 20194
+I mentored LSU Freshman Collin Cooper in processing microCT scan data and three-dimensional geometric
+morphometric methods. This work serves as a foundation for my dissertation research.
+Teaching Assistant: BIOL 4141, Mammalogy: 2017
+Lab instruction using museum specimens to teach the evolution and systematics of class Mammalia.
+Co-founder, Museum Experience for Undergraduates: 2016
+The mission of the program is to mold the next generation of museum researchers and advocates by exposing
+undergraduate students to the study of natural history, both locally and globally.
+Mammal Survey Field Training: Ecology & Management of Louisiana Wildlife: 2016-2019
+Training Renewable Natural Resource Students in small mammal surveying, handling, and identification.
+Undergraduate Research Mentor, Summer: 2016
+I mentored LSU Education Undergraduate Sara Morere on a summer-long project to generate a database of
+murine rodent locomotor behavior. Sara is a co-author on Locomotory mode transitions alter phenotypic
+evolution and lineage diversification in an ecologically rich clade of mammals.
+Field Weekend, BIOL 4102 Mammalogy: 2015
+Training of 12 undergraduate students in mammal field survey. Kisatchie National Forests, Louisiana.
+Recent Outreach Events:
+Special Saturday: “Bust a Move: Mammal Locomotion” 2020
+I organized and led an event for children on mammal locomotion at the LSU Museum of Natural Science.
+Night at the Museum: Mammals: 2016, 2017, & 2018
+Museum specimen preparation demonstration and public engagement on the value of museum specimens
+Fall Fest: 2015, 2016, & 2018
+Engaging with undergraduate students on the behalf of the LSU Museum of Natural Science.
+East Baton Rouge Parish Bio-Blitz: 2016
+Public education on small mammal surveys, undergraduate training on effective camera-trapping techniques.
+Behind-the-scenes Tours of LSU Museum of Natural Science: 2015-2020
+I regularly lead tours of the LSUMNS to undergraduate and graduate students, along with members of the
+general public.
 -->
 ```
-## Outreach, Leadership, & Mentorship
-
 ## Teaching
 
 ## Professional service
-```
+```{=html}
+<!--
 ASM commitees :
 Reviewer: The American Naturalist, Systematic Biology, Evolution, Journal of Mammalogy, Therya, Zoological Research, Journal of Mammalian Evolution, Mammalian Species, Royal Society Open Science, PeerJ
 Ad-hoc reviewer: NSF CAREER Program
+-->
 ```
 
-## FieldworK: Museum Collection Expeditions
+## Fieldwork: Museum Collection Expeditions
 
 ```{=html}
 <!--
