@@ -4,7 +4,7 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: svm-latex-cv.tex
-geometry: margin=0.8in
+geometry: margin=0.85in
 
 title: "CV"
 author: Jonathan A. Nations
@@ -27,7 +27,7 @@ keywords: R Markdown, academic CV, template
 #fontawesome: yes
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
-fontsize: 12pt
+fontsize: 10pt
 linkcolor: black
 urlcolor: black
 ---
@@ -36,10 +36,12 @@ urlcolor: black
   
   
 **2015 - 2020** \| **PhD**, Biological Sciences, Louisiana State University\
-Dissertation: [Function, history, and ecology in the exceptional diversification of murine rodents]{.smallcaps}
+Dissertation: [Function, history, and ecology in the exceptional]{.smallcaps}\
+[diversification of murine rodents]{.smallcaps}
 
 **2011 - 2014** \| **BSc**, Biological Sciences, University of Alaska Fairbanks\
-Undergraduate Thesis: [Climbing behavior of northern Red-backed voles and scansoriality in *Myodes*]{.smallcaps}
+Undergraduate Thesis: [Climbing behavior of northern Red-backed]{.smallcaps}\
+[voles and scansoriality in *Myodes*]{.smallcaps}
 
 **2008 - 2011** \| **ASc**, Science and Math, Seattle Central Community College  
 <!--
@@ -48,39 +50,39 @@ Spacing-->
 ## Recent Professional Experience 
 \everypar{\hangindent=2.9cm \hangafter=1}
 
-\textbf{2020\enskip-\enskip2023}\enskip\|\enskip\textbf{NSF Postdoctoral Research Fellowship in Biology}  
-Interdisciplinary Research Using Biological Collections.
+\textbf{2020\enskip-\enskip2023}\enskip\|\enskip\textbf{NSF Postdoctoral Research Fellowship in Biology}:  
+Interdisciplinary Research Using Biological Collections
 
-\textbf{2015\enskip-\enskip2018}\enskip\|\enskip\textbf{Curatorial Assistantship}  
-Mammals Division, LSU Museum of Natural Science.   
+\textbf{2020\enskip-\enskip2025}\enskip\|\enskip\textbf{Research Affiliate}: Field Museum of Natural History
 
+\textbf{2015\enskip-\enskip2018}\enskip\|\enskip\textbf{Curatorial Assistantship}: Mammals Division, LSU Museum of Natural Science   
 
-\textbf{2014\enskip-\enskip2015}\enskip\|\enskip\textbf{Assistant Collections Manager}  
-Mammals Division, University of Alaska Museum.  
+\textbf{2014\enskip-\enskip2015}\enskip\|\enskip\textbf{Assistant Collections Manager}: Mammals Division, University of Alaska Museum  
 
+\textbf{2014\enskip-\enskip2015}\enskip\|\enskip\textbf{Intern, Student Conservation Association}: Denali National Park &  
+University of Alaska Museum  
 
-\textbf{2014\enskip-\enskip2015}\enskip\|\enskip\textbf{Intern, Student Conservation Association}  
-Denali National Park & University of Alaska Museum.
-
-
-\textbf{2011\enskip-\enskip2014}\enskip\|\enskip\textbf{Curatorial Assistant}  
-Mammals Division, University of Alaska Museum.\
+\textbf{2011\enskip-\enskip2014}\enskip\|\enskip\textbf{Curatorial Assistant}: Mammals Division, University of Alaska Museum.\
 <!--
 Spacing-->
 
 ## Grants, Scholarships, and Awards  
-\everypar{\hangindent=1.6cm \hangafter=1}
+\everypar{\hangindent=1.3cm \hangafter=1}
 
 \textbf{2020}\enskip\|\enskip\textbf{American Society of Mammalogists Fellowship} *(\$20,000)*  
+The highest award made to a graduate student member of ASM.
 
-\textbf{2020}\enskip\|\enskip\textbf{LSU Museum of Natural Science Outstanding Graduate Student}
+\textbf{2020}\enskip\|\enskip\textbf{LSU Museum of Natural Science Outstanding Graduate Student}  
+Awarded to a graduate student who has made substantial contributions to science and the museum community
 
 \textbf{2019}\enskip\|\enskip\textbf{Louisiana State University Prestigious Graduate Fellowship Award} *(\$4,000)*  
+Awarded to select students for funding dissertation research
 
-\textbf{2019}\enskip\|\enskip\textbf{Research Triangle Nanotechnology Network Award} *(\$2,000)*
+\textbf{2019}\enskip\|\enskip\textbf{Research Triangle Nanotechnology Network Award} *(\$2,000)*  
+Support for $\mu$CT scanning museum specimens at Duke University
 
-<!--Support to μCT scan museum specimens at Duke University.  -->
 \textbf{2020}\enskip\|\enskip\textbf{American Society of Mammalogists Patton Award} *(\$5,000)*  
+Support for museum-based research by graduate student members of ASM
 
 \textbf{2017}\enskip\|\enskip\textbf{NSF East Asia Pacific Studies Institute Fellow} *(\$8,000)*  
 Sponsor: Dr. Kevin Rowe, Museums Victoria, Melbourne, Australia  
@@ -88,12 +90,17 @@ Sponsor: Dr. Kevin Rowe, Museums Victoria, Melbourne, Australia
 \textbf{2016}\enskip\|\enskip\textbf{Society of Systematic Biologists Graduate Student Research Award} *(\$1,200)*  
 
 \textbf{2016}\enskip\|\enskip\textbf{American Society of Mammalogists Grant in Aid} *(\$1,000)*  
+Awarded to select ASM members for funding dissertation research  
 
 \textbf{2015}\enskip\|\enskip\textbf{National Science Foundation Graduate Research Fellowship}  
+Three years of support over a five-year fellowship period for individuals who have demonstrated their potential for significant research achievements in STEM 
 
-\textbf{2014}\enskip\|\enskip\textbf{Outstanding Undergraduate Student in the Biological Sciences, UAF}  
+\textbf{2014}\enskip\|\enskip\textbf{Outstanding Undergraduate Student: Biological Sciences, UAF}  
+Awarded to one student in each division of the College of Natural Sciences and Mathematics
 
 \textbf{2014}\enskip\|\enskip\textbf{Brina Kessel Medal for Excellence in Science, UAF} *(\$500)*  
+Awarded to a student that demonstrated a commitment to their chosen scientific field, has an
+inquiring mind, has participated in true research activities of some kind, and demonstrates high levels of integrity in all matters.  
 
 \textbf{2013}\enskip\|\enskip\textbf{Summer Undergraduate Research Award, UAF} *(\$5000)*  
 
@@ -103,34 +110,39 @@ Sponsor: Dr. Kevin Rowe, Museums Victoria, Melbourne, Australia
 
 
 <!--
-Spacing-->  
+UAF Research Day: 2013. Winner, First Place, Best Oral Presentation ($1,000).
+UAF Undergraduate Travel Award: 2011 ($1,995)
+To attend conference in Philadelphia, PA.
+Fred Beeler Memorial Scholarship: 2012-2013 ($3,000)
+Distributed by UAF to outstanding undergraduate students
+-->  
 
 ## Publications  
 \everypar{\hangindent=1.42cm \hangafter=1}
 
-**2022** \| **J.A. Nations**, B.A. Kohli, H. Handika, A.S. Achmadi, M.J. Polito, K.C. Rowe, J.A. Esselstyn. Trait-specific patterns of community ecospace occupancy in an insular mammal radiation. *In Revision*. [link to bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)
+**2022** \| **JA Nations**, BA Kohli, H Handika, AS Achmadi, MJ Polito, KC Rowe, JA Esselstyn. Trait-specific patterns of community ecospace occupancy in an insular mammal radiation. *In Revision*. [link to bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)
 
-**2022** \| Wisniewski, A.L.\*, **J.A. Nations**\*, & G.J. Slater\*. 2022. Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa. *In Revision*. [link to bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.05.05.490807v1)\
+**2022** \| Wisniewski, AL\*, **JA Nations**\*, & GJ Slater\*. 2022. Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa. *In Revision*. [link to bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.05.05.490807v1)\
 \**Equal contribution*
 
-**2022** \| Swanson, M.T., A.S. Achmadi, **J.A. Nations**, M.W. Henson, H. Handika, S. Anita, K.C. Rowe, H. Bennadji, M.J. Polito & J.A. Esselstyn. Bacterial families variably associated with diet along the gut in a trophically diverse community of wild rodents. *In Review*.
+**2022** \| Swanson, MT, AS Achmadi, **JA Nations**, MW Henson, H Handika, S Anita, KC Rowe, H Bennadji, MJ Polito & JA Esselstyn. Bacterial families variably associated with diet along the gut in a trophically diverse community of wild rodents. *In Review*.
 
-**2021** \| Marcondes, R.S.\*, **J.A. Nations**\*, Seeholzer, G.F., & Brumfield, R.T. 2021. Rethinking Gloger's rule: climate, light environments, and color in a diverse family of tropical birds. The American Naturalist. 197(5): 592-606.\
+**2021** \| Marcondes, RS\*, **JA Nations**\*, GF Seeholzer, & RT Brumfield. 2021. Rethinking Gloger's rule: climate, light environments, and color in a diverse family of tropical birds. The American Naturalist. 197(5): 592-606.\
 \**Joint first authorship*
 
-**2021** \| **Nations, J.A.**, G.G. Mount, S.M. Morere\*, A.S. Achmadi, K.C. Rowe, & J.A. Esselstyn. Locomotory mode transitions alter phenotypic evolution and lineage diversification in an ecologically rich clade of mammals. Evolution. 75(2): 376-393.\
+**2021** \| **Nations, JA**, GG Mount, SM Morere\*, AS Achmadi, KC Rowe, & JA Esselstyn. Locomotory mode transitions alter phenotypic evolution and lineage diversification in an ecologically rich clade of mammals. Evolution. 75(2): 376-393.\
 \**Undergraduate author*
 
-**2021** \| **Nations, J.A.**, A. Mursyid\*, R. Darma Busta\*, S.P. Adrian\*, H. Handika, Apandi, A.S. Achmadi, J.A. Esselstyn. An albino rat from West Sumatra, Indonesia represents the first report of albinism in a Sundaland rodent. Mammalia. 85(2): 168-172.
+**2021** \| **Nations, JA**, A Mursyid\*, R Darma Busta\*, SP Adrian\*, H Handika, Apandi, AS Achmadi, & JA Esselstyn. An albino rat from West Sumatra, Indonesia represents the first report of albinism in a Sundaland rodent. Mammalia. 85(2): 168-172.
 \**Undergraduate author*
 
-**2020** \| Roycroft, E.J\*, **J.A. Nations**\*, & K.C. Rowe. Environment predicts repeated body size shifts in a recent radiation of Australian mammals. Evolution. 74(3): 671-680.\
+**2020** \| Roycroft, EJ\*, **JA Nations**\*, & KC Rowe. Environment predicts repeated body size shifts in a recent radiation of Australian mammals. Evolution. 74(3): 671-680.\
 \**Joint first authorship*
 
-**2019** \| **Nations, J.A.**, L.R. Heaney, T.C. Demos, A.S. Achmadi, K.C. Rowe, & J.A. Esselstyn. A Simple Skeletal Measurement Effectively Predicts Climbing Behavior in Murine Rodents. Biological Journal of the Linnean Society. 128(2): 323-336.\
+**2019** \| **Nations, JA**, LR Heaney, TC Demos, AS Achmadi, KC Rowe, & JA Esselstyn. A Simple Skeletal Measurement Effectively Predicts Climbing Behavior in Murine Rodents. Biological Journal of the Linnean Society. 128(2): 323-336.\
 *Selected for BJLS Ecomorphology Collection Virtual Issue*
 
-**2015** \| **Nations, J.A.** & L.E. Olson. 2015. Climbing behavior of northern red-backed voles (Myodes rutilus) and scansoriality in Myodes (Rodentia, Cricetidae). Journal of Mammalogy 96(5): 957--963.\
+**2015** \| **Nations, JA** & LE Olson. 2015. Climbing behavior of northern red-backed voles (Myodes rutilus) and scansoriality in Myodes (Rodentia, Cricetidae). Journal of Mammalogy 96(5): 957--963.\
 <!--
 -->
 
@@ -150,7 +162,7 @@ Spacing-->
 *Travelouge: Gunung Murud Expedition, Sarawak, Malaysia, July – August 2019*  
 
 **2019** \| LSU Museum of Natural Science Seminar, Baton Rouge, LA  
-*Travelouge: "The Giant Rat of Sumatra:" Gunung Singgalang, West Sumatra, Indonesia*  
+*Travelouge: The Giant Rat of Sumatra: Gunung Singgalang Expedition, West Sumatra, Indonesia*  
 
 **2018** \| Biology Seminar, Andalas University, Padang, West Sumatra, Indonesia  
 *The importance of museum specimens in the study of natural history*  
@@ -168,7 +180,7 @@ Spacing-->
 **2022** \| American Society of Mammalogists Annual Meeting, Tucson, AZ  
 *Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa*
 
-**2021** \|  - American Society of Mammalogists Annual Meeting - Plenary Session, Virtual Meeting
+**2021** \| American Society of Mammalogists Annual Meeting - Plenary Session, Virtual Meeting
 *Niche packing, niche expansion, and the evolution of the exceptional rodent fauna of Sulawesi, Indonesia*  
 
 **2019** \| American Society of Mammalogists Annual Meeting, Washington D.C.  
@@ -215,11 +227,9 @@ Spacing-->
 ## Mentorship
 \everypar{\hangindent=1.3cm \hangafter=1}
 
-**Undergraduates** \|  
-**Shelby Oliveaux** (*2019-20 - LSU - Collecting and processing geometric morphometric data*), **Collin Cooper** (*2019-20 - LSU - Processing microCT scan data for 3D morphometrics*), **Finaz Wan Azman**, **Syam Zurain** (*2019 - University of Malaysia, Sarawak - Collection and preparation of museum specimens and associated tissue samples*) **Ahmad Mursyid**, **Ryski Darma Busta**, **Taufiq Afdhal**, **Andri Saputra**, **Tengku Lidra**, **Sah Putra Adrian** (*2018 - Andalas University, Padang, Indonesia - Collection and preparation of museum specimens and associated tissue samples*), **Derra Leonard** (*2016-2019 -  Curatorial Assistant*), **Sara Morere** (*2016 -  Research on locomotor modes of murine rodents (manuscript co-author)*),	**Rajvi Jariwala**, **Shay Cook** (*2015-2016 - LSU - Curatorial methods and molecular lab work*), **Chris Reglan** (*2015-2016 - LSU - Curatorial methods*), **Sarah Swanson** (*2014-2015 - University of Alaska Museum - Identification, preparation and curation of museum specimens from Denali National Park*)
+**Undergraduates** \|  **Shelby Oliveaux** (*2019-20 - LSU - Collecting and processing geometric morphometric data*), **Collin Cooper** (*2019-20 - LSU - Processing microCT scan data for 3D morphometrics*), **Finaz Wan Azman**, **Syam Zuraini** (*2019 - University of Malaysia, Sarawak - Collection and preparation of museum specimens and associated tissue samples*) **Ahmad Mursyid**, **Ryski Darma Busta**, **Taufiq Afdhal**, **Andri Saputra**, **Tengku Lidra**, **Sah Putra Adrian** (*2018 - Andalas University, Padang, Indonesia - Collection and preparation of museum specimens and associated tissue samples*), **Derra Leonard** (*2016-2019 -  Curatorial Assistant*), **Sara Morere** (*2016 -  Research on locomotor modes of murine rodents (manuscript co-author)*),	**Rajvi Jariwala**, **Shay Cook** (*2015-2016 - LSU - Curatorial methods and molecular lab work*), **Chris Reglan** (*2015-2016 - LSU - Curatorial methods*), **Sarah Swanson** (*2014-2015 - University of Alaska Museum - Identification, preparation and curation of museum specimens from Denali National Park*)
 
-**High School Students** \|  
-**Stefania Kremer**, **Briana Kremer** (*2014-2015 - University of Alaska Museum - Identification, preparation and curation of museum specimens from Denali National Park*)\
+**High School Students** \|  **Stefania Kremer**, **Briana Kremer** (*2014-2015 - University of Alaska Museum - Identification, preparation and curation of museum specimens from Denali National Park*)\
 
 
 ## Teaching & Training
@@ -240,7 +250,7 @@ Trained a team of students in small mammal surveying, handling, and identificati
 "*Our mission is to train the next generation of museum researchers and advocates by exposing undergraduate students to the study of natural history, both locally and globally*."
 
 **2015** \| **Mammalogy**: Invited Instructor, LSU  
-Lead 12 undergraduate Mammalogy students on a field survey. Kisatchie National Forests, LA \
+Lead 12 undergraduate Mammalogy students on a field survey - Kisatchie National Forests, LA \
 
 ## Outreach
 \everypar{\hangindent=1.43cm \hangafter=1}
