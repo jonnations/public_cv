@@ -92,21 +92,21 @@ Sponsor: Dr. Kevin Rowe, Museums Victoria, Melbourne, Australia
 \textbf{2016}\enskip\|\enskip\textbf{American Society of Mammalogists Grant in Aid} *(\$1,000)*  
 Awarded to select ASM members for funding dissertation research  
 
-\textbf{2015}\enskip\|\enskip\textbf{National Science Foundation Graduate Research Fellowship}  
+\textbf{2015}\enskip\|\enskip\textbf{National Science Foundation Graduate Research Fellowship} *(\$138,000)*  
 Three years of support over a five-year fellowship period for individuals who have demonstrated their potential for significant research achievements in STEM 
 
-\textbf{2014}\enskip\|\enskip\textbf{Outstanding Undergraduate Student: Biological Sciences, UAF}  
+\textbf{2014}\enskip\|\enskip\textbf{Outstanding Undergraduate Student: Biological Sciences, University of Alaska Fairbanks}  
 Awarded to one student in each division of the College of Natural Sciences and Mathematics
 
-\textbf{2014}\enskip\|\enskip\textbf{Brina Kessel Medal for Excellence in Science, UAF} *(\$500)*  
+\textbf{2014}\enskip\|\enskip\textbf{Brina Kessel Medal for Excellence in Science, University of Alaska Fairbanks} *(\$500)*  
 Awarded to a student that demonstrated a commitment to their chosen scientific field, has an
 inquiring mind, has participated in true research activities of some kind, and demonstrates high levels of integrity in all matters.  
 
-\textbf{2013}\enskip\|\enskip\textbf{Summer Undergraduate Research Award, UAF} *(\$5000)*  
+\textbf{2013}\enskip\|\enskip\textbf{Summer Undergraduate Research Award, University of Alaska Fairbanks} *(\$5000)*  
 
 \textbf{2013}\enskip\|\enskip\textbf{American Society of Mammalogists Travel Award} *(\$300)*  
 
-\textbf{2012}\enskip\|\enskip\textbf{Summer Undergraduate Research Award, UAF} *(\$5000)*\
+\textbf{2012}\enskip\|\enskip\textbf{Summer Undergraduate Research Award, University of Alaska Fairbanks} *(\$5000)*\
 
 
 <!--
@@ -123,7 +123,7 @@ Distributed by UAF to outstanding undergraduate students
 **2022** \| **JA Nations**, BA Kohli, H Handika, AS Achmadi, MJ Polito, KC Rowe, JA Esselstyn. Trait-specific patterns of community ecospace occupancy in an insular mammal radiation. *In Revision*. [link to bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)
 
 **2022** \| Wisniewski, AL\*, **JA Nations**\*, & GJ Slater\*. 2022. Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa. *In Revision*. [link to bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.05.05.490807v1)\
-\**Equal contribution*
+\**Joint first authorship*
 
 **2022** \| Swanson, MT, AS Achmadi, **JA Nations**, MW Henson, H Handika, S Anita, KC Rowe, H Bennadji, MJ Polito & JA Esselstyn. Bacterial families variably associated with diet along the gut in a trophically diverse community of wild rodents. *In Review*.
 
@@ -159,19 +159,19 @@ Distributed by UAF to outstanding undergraduate students
 *Function, history, and ecology in the exceptional diversification of murine rodents*  
 
 **2019** \| LSU Museum of Natural Science Seminar, Baton Rouge, LA  
-*Travelouge: Gunung Murud Expedition, Sarawak, Malaysia, July – August 2019*  
+*Travelogue: Gunung Murud Expedition, Sarawak, Malaysia, July – August 2019*  
 
 **2019** \| LSU Museum of Natural Science Seminar, Baton Rouge, LA  
-*Travelouge: The Giant Rat of Sumatra: Gunung Singgalang Expedition, West Sumatra, Indonesia*  
+*Travelogue: The Giant Rat of Sumatra: Gunung Singgalang Expedition, West Sumatra, Indonesia*  
 
 **2018** \| Biology Seminar, Andalas University, Padang, West Sumatra, Indonesia  
 *The importance of museum specimens in the study of natural history*  
 
 **2017** \| LSU Museum of Natural Science Seminar, Baton Rouge, LA  
-*Travelouge: "Field Work in Borneo: Mt. Mulu, Sarawak, Malaysia*  
+*Travelogue: "Field Work in Borneo: Mt. Mulu, Sarawak, Malaysia*  
 
 **2015** \| LSU Museum of Natural Science Seminar, Baton Rouge, LA  
-*Travelouge: "Small Mammals in Ouachita National Forest, Arkansas*  \
+*Travelogue: "Small Mammals in Ouachita National Forest, Arkansas*  \
 
 
 ## Conference Presentations
@@ -237,14 +237,14 @@ Distributed by UAF to outstanding undergraduate students
 
 **2021** \| **GitHub & version control in RStudio**: Mini-workshop at the Department of the Geophysical Sciences, U Chicago  
 
-**2019** \| **Ecology & Management of Louisiana Wildlife**: Invited Instructor, LSU  
+**2019** \| **Ecology & Management of Louisiana Wildlife**: Guest Instructor, LSU  
 Trained a team of students in small mammal surveying, handling, and identification  
 
-**2018** \| **Ecology & Management of Louisiana Wildlife**: Invited Instructor, LSU  
+**2018** \| **Ecology & Management of Louisiana Wildlife**: Guest Instructor, LSU  
 
 **2017** \| **Mammalogy**: Teaching Assistant, LSU  
 
-**2017** \| **Ecology & Management of Louisiana Wildlife**: Invited Instructor, LSU  
+**2017** \| **Ecology & Management of Louisiana Wildlife**: Guest Instructor, LSU  
 
 **2016** \| **Museum Experience for Undergraduates**: Co-founder, LSU  
 "*Our mission is to train the next generation of museum researchers and advocates by exposing undergraduate students to the study of natural history, both locally and globally*."
@@ -284,12 +284,12 @@ Lead 12 undergraduate Mammalogy students on a field survey - Kisatchie National 
 ## Professional Service
 \everypar{\hangindent=1.43cm \hangafter=1}
 
-\textbf{2019\enskip-\enskip present}\enskip\|\enskip\textbf Nomenclature Committee, American Society of Mammalogists  
+\textbf{2019\enskip-\enskip present}\enskip\|\enskip Nomenclature Committee, American Society of Mammalogists  
 
-\textbf{2019\enskip-\enskip present}\enskip\|\enskip\textbf Biodiversity Committee, American Society of Mammalogists  
+\textbf{2019\enskip-\enskip present}\enskip\|\enskip Biodiversity Committee, American Society of Mammalogists  
 *Member of Muroidea taxonomic working group*
 
-\textbf{2022\enskip-\enskip present}\enskip\|\enskip\textbf Grants in Aid Committee, American Society of Mammalogists  
+\textbf{2022\enskip-\enskip present}\enskip\|\enskip Grants in Aid Committee, American Society of Mammalogists  
 
 **Journal Peer Review** \| The American Naturalist, Systematic Biology, Evolution, Journal of Mammalogy, Therya, Zoological Research, Journal of Mammalian Evolution, Mammalian Species, Royal Society Open Science, PeerJ  
 
