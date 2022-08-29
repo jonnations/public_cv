@@ -145,6 +145,7 @@ Distributed by UAF to outstanding undergraduate students
 **2015** \| **Nations, JA** & LE Olson. 2015. Climbing behavior of northern red-backed voles (Myodes rutilus) and scansoriality in Myodes (Rodentia, Cricetidae). Journal of Mammalogy 96(5): 957--963.\
 <!--
 -->
+\bigskip\bigskip
 
 ## Invited & Departmental Seminars
 \everypar{\hangindent=1.42cm \hangafter=1}
