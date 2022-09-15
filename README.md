@@ -1,4 +1,6 @@
-## **Work in progress from a [ Helpful Template](https://workwithcarolyn.com/blog/digital-cv-guide)**  
+## **HTLM version is a work in progress from a [ Helpful Template](https://workwithcarolyn.com/blog/digital-cv-guide)**   
+
+### **My current CV can be found in this repo as `PDF_CV.pdf`**  
 
 #### _National Science Foundation Postdoctoral Scholar based a the University of Chicago and the Field Museum of Natural History_ <br>
 
