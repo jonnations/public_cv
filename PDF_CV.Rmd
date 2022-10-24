@@ -119,9 +119,9 @@ Distributed by UAF to outstanding undergraduate students
 ## Publications  
 \everypar{\hangindent=1.26cm \hangafter=1}
 
-**2022** \| **JA Nations**, H Handika, A Mursyid, R Darma Busta, Apandi, AS Achmadi, JA Esselstyn. Three new species of shrew (Soricidae: *Crocidura*) from West Sumatra, Indonesia: elevational and morphological divergence in syntopic, sister taxa. *In Review*
+**2022** \| **JA Nations**, H Handika, A Mursyid, R Darma Busta, Apandi, AS Achmadi, JA Esselstyn. Three new species of shrew (Soricidae: *Crocidura*) from West Sumatra, Indonesia: elevational and morphological divergence in syntopic, sister taxa. *In Revision*
 
-**2022** \| **JA Nations**, TC Giarla, A Morni, J William-Dee, MT Swanson, AE Hiller, F Kahn, JA Esselstyn. Molecular data from the holotype of the enigmatic Bornean Black Shrew, *Suncus ater*, place it in the genus *Palawanosorex*. *In Review*
+**2022** \| **JA Nations**, TC Giarla, A Morni, J William-Dee, MT Swanson, AE Hiller, F Kahn, JA Esselstyn. Molecular data from the holotype of the enigmatic Bornean Black Shrew, *Suncus ater*, place it in the genus *Palawanosorex*. *In Revision*
 
 **2022** \| **JA Nations**, BA Kohli, H Handika, AS Achmadi, MJ Polito, KC Rowe, JA Esselstyn. Trait-specific patterns of community ecospace occupancy in an insular mammal radiation. *In Revision*. [bioRxiv hyperlink](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)
 
@@ -234,13 +234,13 @@ Distributed by UAF to outstanding undergraduate students
 **Undergraduates** \|  **Shelby Oliveaux** (*2019-20 - LSU - Collecting and processing geometric morphometric data*), \ **Collin Cooper**
 (*2019-20 - LSU - Processing microCT scan data for 3D morphometrics*), **Finaz Wan Azman**, **Syam Zuraini** (*2019 - University of Malaysia, Sarawak - Collection and preparation of museum specimens and associated tissue samples*) **Ahmad Mursyid**, **Ryski Darma Busta**, **Taufiq Afdhal**, **Andri Saputra**, **Tengku Lidra**, **Sah Putra Adrian** (*2018 - Andalas University, Padang, Indonesia - Collection and preparation of museum specimens and associated tissue samples*), **Derra Leonard** (*2016-2019 -  Curatorial Assistant*), **Sara Morere** (*2016 -  Research on locomotor modes of murine rodents (manuscript co-author)*),	**Rajvi Jariwala**, **Shay Cook** (*2015-2016 - LSU - Curatorial methods and molecular lab work*), **Chris Reglan** (*2015-2016 - LSU - Curatorial methods*), **Sarah Swanson** (*2014-2015 - University of Alaska Museum - Identification, preparation and curation of museum specimens from Denali National Park*)
 
-**High School Students** \|  **Stefania Kremer**, **Briana Kremer** (*2014-2015 - University of Alaska Museum - Identification, preparation and curation of museum specimens from Denali National Park*)\
+**High School Students** \|  **Stefania Kremer**, **Briana Kremer** (*2014-2015 - University of Alaska Museum - Identification, preparation and curation of museum specimens from Denali National Park*), **Kelly May** (*2012-2015 - University of Alaska Museum - Research on the effects of climate change on the body size of Alaska's shrews*)\
 
 
 ## Teaching & Training
 \everypar{\hangindent=1.23cm \hangafter=1}
 
-**2021** \| **GitHub & version control in RStudio**: Mini-workshop at the Department of the Geophysical Sciences, U Chicago  
+**2021** \| **GitHub & version control in RStudio**: Mini-workshop at the Department of the Geophysical Sciences, University of Chicago  
 
 **2019** \| **Ecology & Management of Louisiana Wildlife**: Guest Instructor, LSU  
 Trained a team of students in small mammal surveying, handling, and identification  
@@ -260,7 +260,7 @@ Lead 12 undergraduate Mammalogy students on a field survey - Kisatchie National 
 ## Outreach
 \everypar{\hangindent=1.23cm \hangafter=1}
 
-**2022** \| **U Chicago Southside Science Festival**: Public science festival. *Upcoming*  
+**2022** \| **U Chicago Southside Science Festival**: Public science festival, demonstrations of 3D surface scanning and mesh construction  
 
 **2021** \| **"Squirrel Expert"**: Kindergarten Class, The Philadelphia School  
 
@@ -296,13 +296,16 @@ Lead 12 undergraduate Mammalogy students on a field survey - Kisatchie National 
 
 \textbf{2022\enskip-\enskip present}\enskip\|\enskip Grants in Aid Committee, American Society of Mammalogists  
 
-**Journal Peer Review** \| The American Naturalist, Systematic Biology, Evolution, Journal of Mammalogy, Therya, Zoological Research, Journal of Mammalian Evolution, Mammalian Species, Royal Society Open Science, PeerJ  
+\textbf{2022\enskip-\enskip present}\enskip\|\enskip Maintenance, Phylogenetics Task View CRAN Repository  
+
+**Journal Peer Review** \| The American Naturalist, Systematic Biology, Evolution, Ecology and Evolution, Journal of Mammalogy, Therya, Zoological Research, Journal of Mammalian Evolution, Mammalian Species, Royal Society Open Science, PeerJ, Mammalia, Biodiversity Data Journal  
 
 **Grant Review** \| NSF CAREER Program (*Ad hoc reviewer*), American Society of Mammalogists Grants in Aid (*upcoming*)\
 
 
 ## Fieldwork: Museum Collection Expeditions
 \begin{itemize}[noitemsep]
+    \item Biota CAPTURE Project, Chicago, 2022
     \item Mt. Murud, Sarawak, Malaysia, 2019
     \item Mt. Singgalang, West Sumatra, Indonesia, 2018
     \item Mt. Talamau, West Sumatra, Indonesia, 2018
