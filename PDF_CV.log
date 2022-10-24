@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.26)  24 OCT 2022 12:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.24)  24 OCT 2022 12:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **PDF_CV.tex
 (./PDF_CV.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-08-23> (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2022-09-28> (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
@@ -178,8 +178,8 @@ Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count279
@@ -197,7 +197,7 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 ) (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesome.sty
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex) (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex)) (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2022-06-20 v7.00s Hypertext links for LaTeX
+Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
 (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
 (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
@@ -229,7 +229,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 \Hy@linkcounter=\count281
 \Hy@pagecounter=\count282
 (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2022-06-20 v7.00s Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
@@ -239,7 +239,7 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count283
 (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2022-06-20 v7.00s Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -249,29 +249,31 @@ Package hyperref Info: Hyper index ON on input line 4170.
 Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4408.
+\stockwidth=\dimen165
+\stockheight=\dimen166
+Package hyperref Info: Bookmarks ON on input line 4410.
 \c@Hy@tempcnt=\count284
 (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4746.
-\XeTeXLinkMargin=\dimen165
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen167
 (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count285
-\Field@Width=\dimen166
-\Fld@charsize=\dimen167
-Package hyperref Info: Hyper figures OFF on input line 6024.
-Package hyperref Info: Link nesting OFF on input line 6029.
-Package hyperref Info: Hyper index ON on input line 6032.
-Package hyperref Info: backreferencing OFF on input line 6039.
-Package hyperref Info: Link coloring OFF on input line 6044.
-Package hyperref Info: Link coloring with OCG OFF on input line 6049.
-Package hyperref Info: PDF/A mode OFF on input line 6054.
+\Field@Width=\dimen168
+\Fld@charsize=\dimen169
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
 (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
@@ -282,7 +284,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2022-06-20 v7.00s Hyperref driver for pdfTeX
+File: hpdftex.def 2022-09-22 v7.00t Hyperref driver for pdfTeX
 (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
@@ -357,7 +359,7 @@ LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks31
 \dt@b=\toks32
 ) (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-08-23 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count317
 \l__pdf_internal_box=\box55
 ) (./PDF_CV.aux)
@@ -422,7 +424,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ) (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ) (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx))
@@ -533,15 +535,15 @@ Package rerunfilecheck Info: File `PDF_CV.out' has not changed.
 (rerunfilecheck)             Checksum: 55C240227DDEC39F8E53AE759DAA1B8E;1747.
  ) 
 Here is how much of TeX's memory you used:
- 13664 strings out of 479543
- 213560 string characters out of 5874603
- 529860 words of memory out of 5000000
- 32066 multiletter control sequences out of 15000+600000
+ 13666 strings out of 477031
+ 213759 string characters out of 5826960
+ 570050 words of memory out of 5000000
+ 34568 multiletter control sequences out of 15000+600000
  503359 words of font info for 78 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 70i,5n,76p,1195b,438s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 70i,5n,76p,1195b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc} </Users/Dicrostonyx/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk>{/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on PDF_CV.pdf (5 pages, 150970 bytes).
+Output written on PDF_CV.pdf (5 pages, 151001 bytes).
 PDF statistics:
  157 PDF objects out of 1000 (max. 8388607)
  118 compressed objects within 2 object streams
