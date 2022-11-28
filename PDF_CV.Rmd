@@ -69,6 +69,9 @@ Spacing-->
 ## Grants, Scholarships, and Awards  
 \everypar{\hangindent=1.33cm \hangafter=1}
 
+\textbf{2022}\enskip\|\enskip\textbf{Grainger Bioinformatics Center, Field Museum} *(\$5,700)*  
+Project: Dietary metabarcoding of Sulawesi shrews  
+
 \textbf{2020}\enskip\|\enskip\textbf{American Society of Mammalogists Fellowship} *(\$20,000)*  
 The highest award made to a graduate student member of ASM
 
@@ -121,7 +124,7 @@ Distributed by UAF to outstanding undergraduate students
 
 **2022** \| **JA Nations**, H Handika, A Mursyid, R Darma Busta, Apandi, AS Achmadi, JA Esselstyn. Three new species of shrew (Soricidae: *Crocidura*) from West Sumatra, Indonesia: elevational and morphological divergence in syntopic, sister taxa. *In Revision*
 
-**2022** \| **JA Nations**, TC Giarla, A Morni, J William-Dee, MT Swanson, AE Hiller, F Kahn, JA Esselstyn. Molecular data from the holotype of the enigmatic Bornean Black Shrew, *Suncus ater*, place it in the genus *Palawanosorex*. *In Revision*
+**2022** \| **JA Nations**, TC Giarla, A Morni, J William-Dee, MT Swanson, AE Hiller, F Kahn, JA Esselstyn. Molecular data from the holotype of the enigmatic Bornean Black Shrew, *Suncus ater*, place it in the genus *Palawanosorex*. Zookeys *Accepted*
 
 **2022** \| **JA Nations**, BA Kohli, H Handika, AS Achmadi, MJ Polito, KC Rowe, JA Esselstyn. Trait-specific patterns of community ecospace occupancy in an insular mammal radiation. *In Revision*. [bioRxiv hyperlink](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)
 
