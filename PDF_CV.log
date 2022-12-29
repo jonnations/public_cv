@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.24)  28 NOV 2022 14:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.24)  29 DEC 2022 07:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -543,10 +543,10 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  70i,5n,76p,1195b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc} </Users/Dicrostonyx/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk>{/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on PDF_CV.pdf (5 pages, 151299 bytes).
+Output written on PDF_CV.pdf (5 pages, 151445 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 118 compressed objects within 2 object streams
+ 158 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
  28 named destinations out of 1000 (max. 500000)
  89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
