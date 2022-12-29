@@ -243,6 +243,8 @@ Distributed by UAF to outstanding undergraduate students
 ## Teaching & Training
 \everypar{\hangindent=1.23cm \hangafter=1}
 
+**2023** \| **Bayesian Approaches to Data Analysis**: Co-Instructor. Graduate seminar on Bayesian multilevel modeling. GEOS 36200, Department of the Geophysical Sciences, University of Chicago
+
 **2021** \| **GitHub & version control in RStudio**: Mini-workshop at the Department of the Geophysical Sciences, University of Chicago  
 
 **2019** \| **Ecology & Management of Louisiana Wildlife**: Guest Instructor, LSU  
