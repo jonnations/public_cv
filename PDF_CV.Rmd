@@ -122,9 +122,9 @@ Distributed by UAF to outstanding undergraduate students
 ## Publications  
 \everypar{\hangindent=1.26cm \hangafter=1}
 
-**2022** \| **JA Nations**, H Handika, A Mursyid, R Darma Busta, Apandi, AS Achmadi, JA Esselstyn. Three new species of shrew (Soricidae: *Crocidura*) from West Sumatra, Indonesia: elevational and morphological divergence in syntopic, sister taxa. *In Revision*
+**2023** \| SM Smith, DM Rowsey, **JA Nations**, KD Angielczyk, LR Heaney. The roles of phylogeny, body size, and substrate use in trabecular bone variation among Philippine "earthworm mice" (Rodentia: Chrotomyini). *In Review*
 
-**2022** \| **JA Nations**, TC Giarla, A Morni, J William-Dee, MT Swanson, AE Hiller, F Khan, JA Esselstyn. Molecular data from the holotype of the enigmatic Bornean Black Shrew, *Suncus ater* Medway, 1965 (Soricidae, Crocidurinae), place it in the genus *Palawanosorex*. ZooKeys. 1137:17-31. [ZooKeys hyperlink](https://zookeys.pensoft.net/article/94217/)
+**2022** \| **JA Nations**, H Handika, A Mursyid, R Darma Busta, Apandi, AS Achmadi, JA Esselstyn. Three new species of shrew (Soricidae: *Crocidura*) from West Sumatra, Indonesia: elevational and morphological divergence in syntopic, sister taxa. *In Revision*
 
 **2022** \| **JA Nations**, BA Kohli, H Handika, AS Achmadi, MJ Polito, KC Rowe, JA Esselstyn. Trait-specific patterns of community ecospace occupancy in an insular mammal radiation. *In Revision*. [bioRxiv hyperlink](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)
 
@@ -132,6 +132,8 @@ Distributed by UAF to outstanding undergraduate students
 \**Joint first authorship*
 
 **2022** \| Swanson, MT, AS Achmadi, **JA Nations**, MW Henson, H Handika, S Anita, KC Rowe, H Bennadji, MJ Polito & JA Esselstyn. Bacterial families variably associated with diet along the gut in a trophically diverse community of wild rodents. *In Review*
+
+**2022** \| **JA Nations**, TC Giarla, A Morni, J William-Dee, MT Swanson, AE Hiller, F Khan, JA Esselstyn. Molecular data from the holotype of the enigmatic Bornean Black Shrew, *Suncus ater* Medway, 1965 (Soricidae, Crocidurinae), place it in the genus *Palawanosorex*. ZooKeys. 1137:17-31. [ZooKeys hyperlink](https://zookeys.pensoft.net/article/94217/)
 
 **2021** \| Marcondes, RS\*, **JA Nations**\*, GF Seeholzer, & RT Brumfield. 2021. Rethinking Gloger's rule: climate, light environments, and color in a diverse family of tropical birds. The American Naturalist. 197(5): 592-606.\
 \**Joint first authorship*
@@ -143,15 +145,17 @@ Distributed by UAF to outstanding undergraduate students
 \**Undergraduate author*
 
 **2020** \| Roycroft, EJ\*, **JA Nations**\*, & KC Rowe. Environment predicts repeated body size shifts in a recent radiation of Australian mammals. Evolution. 74(3): 671-680.\
-\**Joint first authorship*
+\**Joint first authorship*\
 
+<!--
+LINE BREAK INTRODUCED ABOVE WITH BACKSLASH (to avoid cutting citation in 1/2)
+--> 
 **2019** \| **Nations, JA**, LR Heaney, TC Demos, AS Achmadi, KC Rowe, & JA Esselstyn. A Simple Skeletal Measurement Effectively Predicts Climbing Behavior in Murine Rodents. Biological Journal of the Linnean Society. 128(2): 323-336.\
 *Selected for BJLS Ecomorphology Collection Virtual Issue*
 
 **2015** \| **Nations, JA** & LE Olson. Climbing behavior of northern red-backed voles (Myodes rutilus) and scansoriality in Myodes (Rodentia, Cricetidae). Journal of Mammalogy 96(5): 957--963.\
 <!--
 -->
-\bigskip\bigskip
 
 ## Invited & Departmental Seminars
 \everypar{\hangindent=1.23cm \hangafter=1}
