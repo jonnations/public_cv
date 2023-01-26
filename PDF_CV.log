@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  21 JAN 2023 09:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  25 JAN 2023 19:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -552,46 +552,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 240--242
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--308
+Underfull \hbox (badness 10000) in paragraph at lines 301--305
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 315--319
+Underfull \hbox (badness 10000) in paragraph at lines 312--316
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 360--364
+Underfull \hbox (badness 10000) in paragraph at lines 357--361
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 435--438
+Underfull \hbox (badness 10000) in paragraph at lines 432--435
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--469
+Underfull \hbox (badness 10000) in paragraph at lines 460--466
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 502--505
+Underfull \hbox (badness 10000) in paragraph at lines 499--502
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 548--549
+Underfull \hbox (badness 10000) in paragraph at lines 545--546
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 574--577
+Underfull \hbox (badness 10000) in paragraph at lines 571--574
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 583.
+LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 580.
 (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 ) [5] [6] (./PDF_CV.aux)
@@ -607,10 +607,10 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  72i,6n,76p,1195b,584s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc} </Users/Dicrostonyx/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk>{/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on PDF_CV.pdf (6 pages, 153275 bytes).
+Output written on PDF_CV.pdf (6 pages, 153180 bytes).
 PDF statistics:
- 162 PDF objects out of 1000 (max. 8388607)
- 122 compressed objects within 2 object streams
+ 161 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
  29 named destinations out of 1000 (max. 500000)
  53337 words of extra memory for PDF output out of 61914 (max. 10000000)
 
