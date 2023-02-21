@@ -122,7 +122,7 @@ Distributed by UAF to outstanding undergraduate students
 ## Publications  
 \everypar{\hangindent=1.26cm \hangafter=1}
 
-**2023** \| SM Smith, DM Rowsey, **JA Nations**, KD Angielczyk, LR Heaney. The roles of phylogeny, body size, and substrate use in trabecular bone variation among Philippine "earthworm mice" (Rodentia: Chrotomyini). *In Review*
+**2023** \| SM Smith, DM Rowsey, **JA Nations**, KD Angielczyk, LR Heaney. The roles of phylogeny, body size, and substrate use in trabecular bone variation among Philippine "earthworm mice" (Rodentia: Chrotomyini). *Accepted*. Biological Journal of the Linnean Society.
 
 **2023** \| Wisniewski, AL\*, **JA Nations**\*, & GJ Slater. Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa. *Accepted*. The American Naturalist.
 \**Joint first authorship*
