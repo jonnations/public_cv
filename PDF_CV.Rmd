@@ -31,6 +31,10 @@ fontsize: 10pt
 linkcolor: black
 urlcolor: black
 ---
+```{r echo = FALSE}
+knitr::opts_chunk$set(dev="CairoPNG")
+```
+
 ## Education  
 \everypar{\hangindent=2.2cm \hangafter=1}
   
