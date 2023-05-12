@@ -126,12 +126,12 @@ Distributed by UAF to outstanding undergraduate students
 ## Publications  
 \everypar{\hangindent=1.26cm \hangafter=1}
 
+**2023** \| **JA Nations**, H Handika, A Mursyid, R Darma Busta, Apandi, AS Achmadi, JA Esselstyn. Three new species of shrew (Soricidae: *Crocidura*) from West Sumatra, Indonesia: elevational and morphological divergence in syntopic, sister taxa. *Accepted*. The Journal of Mammalogy.
+
 **2023** \| SM Smith, DM Rowsey, **JA Nations**, KD Angielczyk, LR Heaney. The roles of phylogeny, body size, and substrate use in trabecular bone variation among Philippine "earthworm mice" (Rodentia: Chrotomyini). *Accepted*. Biological Journal of the Linnean Society.
 
 **2023** \| Wisniewski, AL\*, **JA Nations**\*, & GJ Slater. Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa. *Accepted*. The American Naturalist.
 \**Joint first authorship*
-
-**2022** \| **JA Nations**, H Handika, A Mursyid, R Darma Busta, Apandi, AS Achmadi, JA Esselstyn. Three new species of shrew (Soricidae: *Crocidura*) from West Sumatra, Indonesia: elevational and morphological divergence in syntopic, sister taxa. *In Revision*
 
 **2022** \| **JA Nations**, BA Kohli, H Handika, AS Achmadi, MJ Polito, KC Rowe, JA Esselstyn. Trait-specific patterns of community ecospace occupancy in an insular mammal radiation. *In Revision*. [bioRxiv hyperlink](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)
 
@@ -191,6 +191,9 @@ LINE BREAK INTRODUCED ABOVE WITH BACKSLASH (to avoid cutting citation in 1/2)
 
 ## Conference Presentations
 \everypar{\hangindent=1.23cm \hangafter=1}
+
+**2023** \| Society of Integrative and Comparative Biology - Midwest, Chicago, IL  
+*Bayesian prediction of ecology from phenotype: new insights into diet*
 
 **2022** \| American Society of Mammalogists Annual Meeting, Tucson, AZ  
 *Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa*
