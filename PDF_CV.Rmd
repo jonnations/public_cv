@@ -54,6 +54,9 @@ Spacing-->
 ## Recent Professional Experience 
 \everypar{\hangindent=2.5cm \hangafter=1}
 
+\textbf{2024\enskip-\enskip\enskip\enskip\enskip\enskip}\enskip\|\enskip\textbf{Assistant Curator of Mammals (incoming)}: Florida Museum, University of Florida  
+Appointment begins in April 2024
+
 \textbf{2020\enskip-\enskip2023}\enskip\|\enskip\textbf{NSF Postdoctoral Research Fellowship in Biology}:  
 Interdisciplinary Research Using Biological Collections
 
@@ -128,9 +131,9 @@ Distributed by UAF to outstanding undergraduate students
 
 **2023** \| **JA Nations**, H Handika, A Mursyid, R Darma Busta, Apandi, AS Achmadi, JA Esselstyn. Three new species of shrew (Soricidae: *Crocidura*) from West Sumatra, Indonesia: elevational and morphological divergence in syntopic, sister taxa. *Accepted*. The Journal of Mammalogy.
 
-**2023** \| SM Smith, DM Rowsey, **JA Nations**, KD Angielczyk, LR Heaney. The roles of phylogeny, body size, and substrate use in trabecular bone variation among Philippine "earthworm mice" (Rodentia: Chrotomyini). *Accepted*. Biological Journal of the Linnean Society.
+**2023** \| SM Smith, DM Rowsey, **JA Nations**, KD Angielczyk, LR Heaney. The roles of phylogeny, body size, and substrate use in trabecular bone variation among Philippine "earthworm mice" (Rodentia: Chrotomyini). Biological Journal of the Linnean Society. 140(1): 1-25.
 
-**2023** \| Wisniewski, AL\*, **JA Nations**\*, & GJ Slater. Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa. *Accepted*. The American Naturalist.
+**2023** \| Wisniewski, AL\*, **JA Nations**\*, & GJ Slater. Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa. The American Naturalist. 202(2): 192-215.\
 \**Joint first authorship*
 
 **2022** \| **JA Nations**, BA Kohli, H Handika, AS Achmadi, MJ Polito, KC Rowe, JA Esselstyn. Trait-specific patterns of community ecospace occupancy in an insular mammal radiation. *In Revision*. [bioRxiv hyperlink](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)
@@ -146,10 +149,10 @@ Distributed by UAF to outstanding undergraduate students
 \**Undergraduate author*
 
 **2021** \| **Nations, JA**, A Mursyid\*, R Darma Busta\*, SP Adrian\*, H Handika, Apandi, AS Achmadi, & JA Esselstyn. An albino rat from West Sumatra, Indonesia represents the first report of albinism in a Sundaland rodent. Mammalia. 85(2): 168-172.\
-\**Undergraduate author*
+\**Undergraduate author*\
 
 **2020** \| Roycroft, EJ\*, **JA Nations**\*, & KC Rowe. Environment predicts repeated body size shifts in a recent radiation of Australian mammals. Evolution. 74(3): 671-680.\
-\**Joint first authorship*\
+\**Joint first authorship*
 
 <!--
 LINE BREAK INTRODUCED ABOVE WITH BACKSLASH (to avoid cutting citation in 1/2)
