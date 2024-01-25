@@ -196,13 +196,16 @@ LINE BREAK INTRODUCED ABOVE WITH BACKSLASH (to avoid cutting citation in 1/2)
 ## Conference Presentations
 \everypar{\hangindent=1.15cm \hangafter=1}
 
+**2024** \| Society of Integrative and Comparative Biology Annual Meeting, Seattle, WA  
+*Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa*
+
 **2023** \| Society of Integrative and Comparative Biology - Midwest, Chicago, IL  
 *Bayesian prediction of ecology from phenotype: new insights into diet*
 
 **2022** \| American Society of Mammalogists Annual Meeting, Tucson, AZ  
 *Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa*
 
-**2021** \| American Society of Mammalogists Annual Meeting - Plenary Session, Virtual Meeting  
+**2021** \| American Society of Mammalogists Annual Meeting - ASM Fellowship Presentation, Virtual Meeting  
 *Niche packing, niche expansion, and the evolution of the exceptional rodent fauna of Sulawesi, Indonesia*  
 
 **2019** \| American Society of Mammalogists Annual Meeting, Washington D.C.  
