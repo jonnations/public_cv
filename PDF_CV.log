@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.27)  29 JAN 2024 10:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.27)  5 MAR 2024 11:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -592,11 +592,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 574--575
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 602--605
+Underfull \hbox (badness 10000) in paragraph at lines 603--606
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 611.
+LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 612.
 (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 ) [5] [6] (./PDF_CV.aux)
@@ -616,7 +616,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  72i,6n,79p,1195b,566s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/Dicrostonyx/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on PDF_CV.pdf (6 pages, 154436 bytes).
+Output written on PDF_CV.pdf (6 pages, 154450 bytes).
 PDF statistics:
  168 PDF objects out of 1000 (max. 8388607)
  128 compressed objects within 2 object streams

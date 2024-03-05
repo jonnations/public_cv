@@ -328,7 +328,7 @@ Lead 12 undergraduate Mammalogy students on a field survey - Kisatchie National 
 \everypar{\hangindent=1.23cm \hangafter=1}
 
 **Journal Peer Review**\   
-The American Naturalist, Systematic Biology, Evolution, Ecology and Evolution, Journal of Anatomy, Journal of Mammalogy, Therya, Zoological Research, Journal of Mammalian Evolution, Mammalian Species, Royal Society Open Science, PeerJ, Mammalia, Biodiversity Data Journal.
+The American Naturalist, Systematic Biology, Evolution, Ecology and Evolution, Journal of Anatomy, Journal of Mammalogy, Therya, Zoological Research, Journal of Mammalian Evolution, Mammalian Species, Royal Society Open Science, PeerJ, Mammalia, Mammal Study, Biodiversity Data Journal.
 
 **Grant Review**\   
 NSF CAREER Program (*Ad hoc reviewer*), American Society of Mammalogists Grants in Aid.\
