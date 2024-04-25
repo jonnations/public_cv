@@ -7,11 +7,11 @@ geometry: margin=0.825in
 
 title: "CV"
 author: Jonathan A. Nations
-jobtitle: "NSF Postdoctoral Research Fellow"
-address: "Department of the Geophysical Sciences"
-jobtitle2: "University of Chicago "
+jobtitle: "Assistant Curator of Mammals"
+address: "Florida Museum of Natural History"
+jobtitle2: "University of Florida "
 fontawesome: yes
-email: jonnations@gmail.com
+email: jnations@floridamuseum.ufl.edu
 github: jonnations
 web: jonnynations.com
 updated: TRUE
@@ -50,8 +50,8 @@ Spacing-->
 ## Recent Professional Experience 
 \everypar{\hangindent=2.45cm \hangafter=1}
 
-\textbf{2024\enskip-\enskip\enskip\enskip\enskip\enskip}\enskip\|\enskip\textbf{Assistant Curator of Mammals (incoming)}: Florida Museum of Natural History,\
-University of Florida. Appointment begins in April 2024
+\textbf{2024\enskip-\enskip\enskip\enskip\enskip\enskip}\enskip\|\enskip\textbf{Assistant Curator of Mammals}: Florida Museum of Natural History,\
+University of Florida.
 
 \textbf{2020\enskip-\enskip2024}\enskip\|\enskip\textbf{NSF Postdoctoral Research Fellowship in Biology}:  
 Interdisciplinary Research Using Biological Collections, University of Chicago
@@ -125,26 +125,26 @@ Distributed by UAF to outstanding undergraduate students
 ## Publications  
 \everypar{\hangindent=1.15cm \hangafter=1}
 
-**2024** \| **JA Nations**, H Handika, A Mursyid, R Darma Busta, Apandi, AS Achmadi, JA Esselstyn. Three new species of shrew (Soricidae: *Crocidura*) from West Sumatra, Indonesia: elevational and morphological divergence in syntopic, sister taxa. The Journal of Mammalogy. [*Ahead of Print Hyperlink*](https://doi.org/10.1093/jmammal/gyad126)
+**2024** \| **JA Nations**, H Handika, A Mursyid, R Darma Busta, Apandi, AS Achmadi, JA Esselstyn. Three new species of shrew (Soricidae: *Crocidura*) from West Sumatra, Indonesia: elevational and morphological divergence in syntopic, sister taxa. The Journal of Mammalogy. 105(2): 372-389
+
+**2024** \| **JA Nations**, BA Kohli, H Handika, AS Achmadi, MJ Polito, KC Rowe, JA Esselstyn. The roles of isolation and interspecific interaction in generating the functional diversity of an insular mammal radiation. *In Review*. [bioRxiv hyperlink](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)
 
 **2023** \| SM Smith, DM Rowsey, **JA Nations**, KD Angielczyk, LR Heaney. The roles of phylogeny, body size, and substrate use in trabecular bone variation among Philippine "earthworm mice" (Rodentia: Chrotomyini). Biological Journal of the Linnean Society. 140(1): 1-25.
 
-**2023** \| Wisniewski, AL\*, **JA Nations**\*, & GJ Slater. Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa. The American Naturalist. 202(2): 192-215.\
+**2023** \| AL Wisniewski\*, **JA Nations**\*, & GJ Slater. Bayesian prediction of multivariate ecology from phenotypic data yields novel insights into the diets of extant and extinct taxa. The American Naturalist. 202(2): 192-215.\
 \**Joint first authorship*
-
-**2023** \| **JA Nations**, BA Kohli, H Handika, AS Achmadi, MJ Polito, KC Rowe, JA Esselstyn. Trait-specific patterns of community ecospace occupancy in an insular mammal radiation. *In Revision*. [bioRxiv hyperlink](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)
 
 <!--**2022** \| Swanson, MT, AS Achmadi, **JA Nations**, MW Henson, H Handika, S Anita, KC Rowe, H Bennadji, MJ Polito & JA Esselstyn. Bacterial families variably associated with diet along the gut in a trophically diverse community of wild rodents. *In Revision* -->
 
 **2022** \| **JA Nations**, TC Giarla, A Morni, J William-Dee, MT Swanson, AE Hiller, F Khan, JA Esselstyn. Molecular data from the holotype of the enigmatic Bornean Black Shrew, *Suncus ater* Medway, 1965 (Soricidae, Crocidurinae), place it in the genus *Palawanosorex*. ZooKeys. 1137:17-31. [ZooKeys hyperlink](https://zookeys.pensoft.net/article/94217/)
 
-**2021** \| Marcondes, RS\*, **JA Nations**\*, GF Seeholzer, & RT Brumfield. 2021. Rethinking Gloger's rule: climate, light environments, and color in a diverse family of tropical birds. The American Naturalist. 197(5): 592-606.\
+**2021** \| RS Marcondes\*, **JA Nations**\*, GF Seeholzer, & RT Brumfield. 2021. Rethinking Gloger's rule: climate, light environments, and color in a diverse family of tropical birds. The American Naturalist. 197(5): 592-606.\
 \**Joint first authorship*
 
-**2021** \| **Nations, JA**, GG Mount, SM Morere\*, AS Achmadi, KC Rowe, & JA Esselstyn. Locomotory mode transitions alter phenotypic evolution and lineage diversification in an ecologically rich clade of mammals. Evolution. 75(2): 376-393.\
+**2021** \| **JA Nations**, GG Mount, SM Morere\*, AS Achmadi, KC Rowe, & JA Esselstyn. Locomotory mode transitions alter phenotypic evolution and lineage diversification in an ecologically rich clade of mammals. Evolution. 75(2): 376-393.\
 \**Undergraduate author*
 
-**2021** \| **Nations, JA**, A Mursyid\*, R Darma Busta\*, SP Adrian\*, H Handika, Apandi, AS Achmadi, & JA Esselstyn. An albino rat from West Sumatra, Indonesia represents the first report of albinism in a Sundaland rodent. Mammalia. 85(2): 168-172.\
+**2021** \| **JA Nations**, A Mursyid\*, R Darma Busta\*, SP Adrian\*, H Handika, Apandi, AS Achmadi, & JA Esselstyn. An albino rat from West Sumatra, Indonesia represents the first report of albinism in a Sundaland rodent. Mammalia. 85(2): 168-172.\
 \**Undergraduate author*
 
 **2020** \| Roycroft, EJ\*, **JA Nations**\*, & KC Rowe. Environment predicts repeated body size shifts in a recent radiation of Australian mammals. Evolution. 74(3): 671-680.\
@@ -153,10 +153,10 @@ Distributed by UAF to outstanding undergraduate students
 <!--
 LINE BREAK INTRODUCED ABOVE WITH BACKSLASH (to avoid cutting citation in 1/2)
 --> 
-**2019** \| **Nations, JA**, LR Heaney, TC Demos, AS Achmadi, KC Rowe, & JA Esselstyn. A Simple Skeletal Measurement Effectively Predicts Climbing Behavior in Murine Rodents. Biological Journal of the Linnean Society. 128(2): 323-336.\
+**2019** \| **JA Nations**, LR Heaney, TC Demos, AS Achmadi, KC Rowe, & JA Esselstyn. A Simple Skeletal Measurement Effectively Predicts Climbing Behavior in Murine Rodents. Biological Journal of the Linnean Society. 128(2): 323-336.\
 *Selected for BJLS Ecomorphology Collection Virtual Issue*
 
-**2015** \| **Nations, JA** & LE Olson. Climbing behavior of northern red-backed voles (*Myodes rutilus*) and scansoriality in *Myodes* (Rodentia, Cricetidae). Journal of Mammalogy 96(5): 957--963.\
+**2015** \| **JA Nations** & LE Olson. Climbing behavior of northern red-backed voles (*Myodes rutilus*) and scansoriality in *Myodes* (Rodentia, Cricetidae). Journal of Mammalogy 96(5): 957--963.\
 <!--
 -->
 

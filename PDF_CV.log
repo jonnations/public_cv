@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.27)  5 MAR 2024 11:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.27)  24 APR 2024 21:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -552,51 +552,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 245--247
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--309
+Underfull \hbox (badness 10000) in paragraph at lines 303--307
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 316--320
+Underfull \hbox (badness 10000) in paragraph at lines 314--318
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--331
+Underfull \hbox (badness 10000) in paragraph at lines 324--329
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 372--376
+Underfull \hbox (badness 10000) in paragraph at lines 370--374
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 457--460
+Underfull \hbox (badness 10000) in paragraph at lines 455--458
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--492
+Underfull \hbox (badness 10000) in paragraph at lines 484--490
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 525--528
+Underfull \hbox (badness 10000) in paragraph at lines 523--526
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 574--575
+Underfull \hbox (badness 10000) in paragraph at lines 572--573
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 603--606
+Underfull \hbox (badness 10000) in paragraph at lines 601--604
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 612.
+LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 610.
 (/Users/Dicrostonyx/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 ) [5] [6] (./PDF_CV.aux)
@@ -608,18 +608,18 @@ Package rerunfilecheck Info: File `PDF_CV.out' has not changed.
 (rerunfilecheck)             Checksum: 5D95A196666528F3785D9E66A2580584;1900.
  ) 
 Here is how much of TeX's memory you used:
- 15709 strings out of 476213
- 244770 string characters out of 5794841
+ 15717 strings out of 476213
+ 244840 string characters out of 5794841
  1937555 words of memory out of 5000000
  37102 multiletter control sequences out of 15000+600000
- 605408 words of font info for 297 fonts, out of 8000000 for 9000
+ 605786 words of font info for 304 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,6n,79p,1195b,566s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/Dicrostonyx/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/Dicrostonyx/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on PDF_CV.pdf (6 pages, 154450 bytes).
+Output written on PDF_CV.pdf (6 pages, 155140 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
+ 171 PDF objects out of 1000 (max. 8388607)
+ 127 compressed objects within 2 object streams
  31 named destinations out of 1000 (max. 500000)
  53345 words of extra memory for PDF output out of 61914 (max. 10000000)
 
