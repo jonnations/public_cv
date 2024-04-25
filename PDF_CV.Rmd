@@ -42,7 +42,7 @@ Dissertation: [Function, history, and ecology in the exceptional diversification
 Undergraduate Thesis: [Climbing behavior of northern Red-backed voles and]{.smallcaps}\
 [scansoriality in *Myodes*]{.smallcaps}
 
-\textbf{2018\enskip-\enskip2011}\enskip\|\enskip\textbf{ASc}. Science and Math, Seattle Central Community College  
+\textbf{2008\enskip-\enskip2011}\enskip\|\enskip\textbf{ASc}. Science and Math, Seattle Central Community College  
 <!--
 Spacing-->
 
