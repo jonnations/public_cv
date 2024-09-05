@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.29)  5 SEP 2024 11:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.29)  5 SEP 2024 17:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -495,59 +495,59 @@ Underfull \hbox (badness 10000) in paragraph at lines 244--246
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--310
-
- []
-
-
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 317--321
+Underfull \hbox (badness 10000) in paragraph at lines 314--318
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--331
+Underfull \hbox (badness 10000) in paragraph at lines 325--329
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--375
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--383
 
  []
 
 
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 460--463
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 494--500
+Underfull \hbox (badness 10000) in paragraph at lines 468--471
 
  []
 
 
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 536--539
+Underfull \hbox (badness 10000) in paragraph at lines 502--508
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 584--585
+Underfull \hbox (badness 10000) in paragraph at lines 544--547
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--593
 
  []
 
 
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 612--615
+Underfull \hbox (badness 10000) in paragraph at lines 620--623
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 620.
+LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 628.
 (/Users/jnations1/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 )
@@ -569,7 +569,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  72i,6n,79p,1195b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/jnations1/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on PDF_CV.pdf (6 pages, 154825 bytes).
+Output written on PDF_CV.pdf (6 pages, 155484 bytes).
 PDF statistics:
  157 PDF objects out of 1000 (max. 8388607)
  113 compressed objects within 2 object streams
