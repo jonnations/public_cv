@@ -55,10 +55,10 @@ University of Florida.
 
 \textbf{2024\enskip-\enskip\enskip\enskip\enskip\enskip}\enskip\|\enskip\textbf{Research Affiliate}: Philippine National Museum, Manila, Philippines
 
+\textbf{2020\enskip-\enskip\enskip\enskip\enskip\enskip}\enskip\|\enskip\textbf{Research Affiliate}: Field Museum of Natural History
+
 \textbf{2020\enskip-\enskip2024}\enskip\|\enskip\textbf{NSF Postdoctoral Research Fellowship in Biology}:  
 Interdisciplinary Research Using Biological Collections, University of Chicago
-
-\textbf{2020\enskip-\enskip\enskip\enskip\enskip\enskip}\enskip\|\enskip\textbf{Research Affiliate}: Field Museum of Natural History
 
 \textbf{2015\enskip-\enskip2018}\enskip\|\enskip\textbf{Curatorial Assistantship}: Mammals Division, LSU Museum of Natural Science   
 
@@ -167,10 +167,13 @@ LINE BREAK INTRODUCED ABOVE WITH BACKSLASH (to avoid cutting citation in 1/2)
 ## Invited Book Chapters  
 \everypar{\hangindent=1.15cm \hangafter=1}
 
-**2023** \| **JA Nations**, L Weaver, D Grossnickle. Predictors of Arboreality from the Mammalian Appendicular Skeleton Illuminate Locomotor Trends Among Early Mammals. In: MC Granatosky, SLD Toussaint & D Youlatos (Eds.) *Functional Morphology and Biomechanics of Arboreal Locomotion in Tetrapods.* In Revision.\
+**2024** \| **JA Nations**, L Weaver, D Grossnickle. Predictors of Arboreality from the Mammalian Appendicular Skeleton Illuminate Locomotor Trends Among Early Mammals. In: MC Granatosky, SLD Toussaint & D Youlatos (Eds.) *Functional Morphology and Biomechanics of Arboreal Locomotion in Tetrapods.* In Revision.\
 
 ## Invited & Departmental Seminars
 \everypar{\hangindent=1.15cm \hangafter=1}
+
+**2024** \| Departmental Seminar, Wildlife Ecology and Conservation Department, University of Florida, Gainesville, FL  
+*Quantifying complex, multivariate ecologies (and other calming pursuits in mammalogy)*  
 
 **2022** \| Departmental Seminar, Canadian Natural History Museum, Ottowa, ON  
 *Modern take on the classics: Using probabilistic methods to investigate ecogeographical theories in understudied vertebrate groups*  
@@ -260,11 +263,11 @@ LINE BREAK INTRODUCED ABOVE WITH BACKSLASH (to avoid cutting citation in 1/2)
 \everypar{\hangindent=1.23cm \hangafter=1}
 
 **Undergraduate Students**\   
-**Veronica Ramos** (*2024-present - Florida Museum Intern - Processing microCT data to quantify the function of an unsubscribed bone in the shoulder of crocidurine shrews*),
-**Alana Rush** (*2024-present - Florida Museum - Identifying Florida localities for museum resurvey projects*),
-**Davey Cagle** (*2024-present - Florida Museum - Curatorial work and shrew morphometric research*),
-**Shelby Oliveaux** (*2019-20 - LSU - Collecting and processing geometric morphometric data*), \ **Collin Cooper**
-(*2019-20 - LSU - Processing microCT scan data for 3D morphometrics*), **Finaz Wan Azman**, **Syam Zuraini** (*2019 - University of Malaysia, Sarawak - Collection and preparation of museum specimens and associated tissue samples*) **Ahmad Mursyid**, **Ryski Darma Busta**, **Taufiq Afdhal**, **Andri Saputra**, **Tengku Lidra**, **Sah Putra Adrian** (*2018 - Andalas University, Padang, Indonesia - Collection and preparation of museum specimens and associated tissue samples*), **Derra Leonard** (*2016-2019 -  Curatorial Assistant*), **Sara Morere** (*2016 -  Research on locomotor modes of murine rodents (manuscript co-author)*),	**Rajvi Jariwala**, **Shay Cook** (*2015-2016 - LSU - Curatorial methods and molecular lab work*), **Chris Reglan** (*2015-2016 - LSU - Curatorial methods*), **Sarah Swanson** (*2014-2015 - University of Alaska Museum - Identification, preparation and curation of museum specimens from Denali National Park*)
+**Veronica Ramos** (***2024-present** - Florida Museum Intern - Processing microCT data to quantify the function of an unsubscribed bone in the shoulder of crocidurine shrews*),
+**Alana Rush** (***2024-present** - Florida Museum - Identifying Florida localities for museum resurvey projects*),
+**Davey Cagle** (***2024-present** - Florida Museum - Curatorial work and shrew morphometric research*),
+**Shelby Oliveaux** (***2019-20** - LSU - Collecting and processing geometric morphometric data*), \ **Collin Cooper**
+(***2019-20** - LSU - Processing microCT scan data for 3D morphometrics*), **Finaz Wan Azman**, **Syam Zuraini** (***2019** - University of Malaysia, Sarawak - Collection and preparation of museum specimens and associated tissue samples*) **Ahmad Mursyid**, **Ryski Darma Busta**, **Taufiq Afdhal**, **Andri Saputra**, **Tengku Lidra**, **Sah Putra Adrian** (***2018** - Andalas University, Padang, Indonesia - Collection and preparation of museum specimens and associated tissue samples*), **Derra Leonard** (*2016-2019 -  Curatorial Assistant*), **Sara Morere** (***2016** -  Research on locomotor modes of murine rodents (manuscript co-author)*),	**Rajvi Jariwala**, **Shay Cook** (***2015-2016** - LSU - Curatorial methods and molecular lab work*), **Chris Reglan** (***2015-2016** - LSU - Curatorial methods*), **Sarah Swanson** (***2014-2015** - University of Alaska Museum - Identification, preparation and curation of museum specimens from Denali National Park*)
 
 **High School Students**\   
 **Stefania Kremer**, **Briana Kremer** (*2014-2015 - University of Alaska Museum - Identification, preparation and curation of museum specimens from Denali National Park*), **Kelly May** (*2012-2015 - University of Alaska Museum - Research on the effects of climate change on the body size of Alaska's shrews*)\
@@ -328,23 +331,30 @@ Lead 12 undergraduate Mammalogy students on a field survey - Kisatchie National 
 ## Professional Service
 \everypar{\hangindent=2.85cm \hangafter=1}
 
-\textbf{2019\enskip-\enskip present}\enskip\|\enskip Nomenclature Committee, American Society of Mammalogists  
+\textbf{2022\enskip-\enskip present}\enskip\|\enskip Maintenance, Phylogenetics Task View CRAN Repository 
+
+\textbf{2022\enskip-\enskip present}\enskip\|\enskip Grants in Aid Committee, American Society of Mammalogists  
 
 \textbf{2019\enskip-\enskip present}\enskip\|\enskip Biodiversity Committee, American Society of Mammalogists  
 *Member of Muroidea taxonomic working group*
 
-\textbf{2022\enskip-\enskip present}\enskip\|\enskip Grants in Aid Committee, American Society of Mammalogists  
 
-\textbf{2022\enskip-\enskip present}\enskip\|\enskip Maintenance, Phylogenetics Task View CRAN Repository  
-
+\textbf{2019\enskip-\enskip present}\enskip\|\enskip Nomenclature Committee, American Society of Mammalogists  
 \everypar{\hangindent=1.23cm \hangafter=1}
 
 **Journal Peer Review**\   
-The American Naturalist, Systematic Biology, Evolution, Ecology and Evolution, Journal of Anatomy, Journal of Mammalogy, Therya, Zoological Research, Journal of Mammalian Evolution, Mammalian Species, Royal Society Open Science, PeerJ, Mammalia, Mammal Study, Biodiversity Data Journal.
+Science, The American Naturalist, Systematic Biology, Evolution, Ecology and Evolution, Journal of Anatomy, Journal of Mammalogy, Therya, Zoological Research, Journal of Mammalian Evolution, Mammalian Species, Royal Society Open Science, PeerJ, Mammalia, Mammal Study, Biodiversity Data Journal, Zoologischer Anzeiger.
 
 **Grant Review**\   
 NSF CAREER Program (*Ad hoc reviewer*)\
 American Society of Mammalogists Grants in Aid.\
+
+## Departmental Service
+\everypar{\hangindent=2.85cm \hangafter=1}
+
+\textbf{2024\enskip-\enskip present}\enskip\|\enskip Digitization Committee, Florida Museum of Natural History\
+
+\everypar{\hangindent=1.23cm \hangafter=1}
 
 
 ## Fieldwork: Museum Collection Expeditions
