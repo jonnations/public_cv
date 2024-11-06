@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.29)  3 OCT 2024 10:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.29)  5 NOV 2024 10:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -553,16 +553,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 614--617
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 625--628
+Underfull \hbox (badness 10000) in paragraph at lines 626--629
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 633--635
+Underfull \hbox (badness 10000) in paragraph at lines 634--636
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 642.
+LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 643.
 (/Users/jnations1/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 )
@@ -578,16 +578,16 @@ Package rerunfilecheck Info: File `PDF_CV.out' has not changed.
 Here is how much of TeX's memory you used:
  13612 strings out of 475544
  208263 string characters out of 5776507
- 1939905 words of memory out of 5000000
+ 1938905 words of memory out of 5000000
  36017 multiletter control sequences out of 15000+600000
  594959 words of font info for 90 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,6n,79p,1195b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/jnations1/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbij8a.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on PDF_CV.pdf (6 pages, 179863 bytes).
+Output written on PDF_CV.pdf (6 pages, 176671 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 123 compressed objects within 2 object streams
+ 168 PDF objects out of 1000 (max. 8388607)
+ 122 compressed objects within 2 object streams
  20 named destinations out of 1000 (max. 500000)
  105 words of extra memory for PDF output out of 10000 (max. 10000000)
 

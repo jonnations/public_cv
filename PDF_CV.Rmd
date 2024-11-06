@@ -13,7 +13,7 @@ jobtitle2: "University of Florida "
 fontawesome: yes
 email: jnations@floridamuseum.ufl.edu
 github: jonnations
-web: jonnynations.com
+#web: jonnynations.com
 updated: TRUE
 rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
 
@@ -129,7 +129,7 @@ Distributed by UAF to outstanding undergraduate students
 
 **2024** \| MT Swanson, AS Achmadi, **JA Nations**, MW Henson, H Handika, S Anita, KC Rowe, H Bennadji, MJ Polito & JA Esselstyn. Bacterial families variably associated with diet along the gut in a trophically diverse community of wild rodents. *In Review*.
 
-**2024** \| **JA Nations**, BA Kohli, H Handika, AS Achmadi, MJ Polito, KC Rowe, JA Esselstyn. The roles of isolation and interspecific interaction in generating the functional diversity of an insular mammal radiation. *In Revision*. [bioRxiv hyperlink](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)
+**2024** \| **JA Nations**, BA Kohli, H Handika, AS Achmadi, MJ Polito, KC Rowe, JA Esselstyn. The roles of isolation and interspecific interaction in generating the functional diversity of an insular mammal radiation. *Accepted*. Oikos. [bioRxiv hyperlink](https://www.biorxiv.org/content/10.1101/2022.07.15.500274v1)
 
 **2024** \| TC Giarla, AS Achmadi, PH Fabre, H Handika, AS Chipps, MT Swanson, **JA Nations**, MA Morni, J William-Dee, N Inayah, E Dwi Jayanti, M Rizaldi Trias Jaya Putra, Nurdin, KE Griffin, FAA Khan, LR Heaney, KC Rowe, JA Esselstyn. Systematics and historical biogeography of Crunomys and Maxomys (Muridae: Murinae), with the description of a new species from Sulawesi and new genus-level classification. *Accepted*. Journal of Mammalogy.
 
@@ -167,7 +167,7 @@ LINE BREAK INTRODUCED ABOVE WITH BACKSLASH (to avoid cutting citation in 1/2)
 ## Invited Book Chapters  
 \everypar{\hangindent=1.15cm \hangafter=1}
 
-**2024** \| **JA Nations**, L Weaver, D Grossnickle. Predictors of Arboreality from the Mammalian Appendicular Skeleton Illuminate Locomotor Trends Among Early Mammals. In: MC Granatosky, SLD Toussaint & D Youlatos (Eds.) *Functional Morphology and Biomechanics of Arboreal Locomotion in Tetrapods.* In Revision.\
+**2024** \| **JA Nations**, L Weaver, D Grossnickle. Predictors of Arboreality from the Mammalian Appendicular Skeleton Illuminate Locomotor Trends Among Early Mammals. In: MC Granatosky, SLD Toussaint & D Youlatos (Eds.) *Functional Morphology and Biomechanics of Arboreal Locomotion in Tetrapods.* In Press.\
 
 ## Invited & Departmental Seminars
 \everypar{\hangindent=1.15cm \hangafter=1}
@@ -343,7 +343,7 @@ Lead 12 undergraduate Mammalogy students on a field survey - Kisatchie National 
 \everypar{\hangindent=1.23cm \hangafter=1}
 
 **Journal Peer Review**\   
-Science, The American Naturalist, Systematic Biology, Evolution, Ecology and Evolution, Journal of Anatomy, Journal of Mammalogy, Therya, Zoological Research, Journal of Mammalian Evolution, Mammalian Species, Royal Society Open Science, PeerJ, Mammalia, Mammal Study, Biodiversity Data Journal, Zoologischer Anzeiger.
+Science, The American Naturalist, Systematic Biology, Evolution, Ecology and Evolution, Journal of Anatomy, Journal of Evolutionary Biology, Journal of Mammalogy, Therya, Zoological Research, Journal of Mammalian Evolution, Mammalian Species, Royal Society Open Science, PeerJ, Mammalia, Mammal Study, Biodiversity Data Journal, Zoologischer Anzeiger.
 
 **Grant Review**\   
 NSF CAREER Program (*Ad hoc reviewer*)\
