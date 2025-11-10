@@ -137,7 +137,7 @@ Distributed by UAF to outstanding undergraduate students
 ## Publications  
 \everypar{\hangindent=1.15cm \hangafter=1}
 
-**2025** \| TC Giarla, AS Achmadi, PH Fabre, H Handika, AS Chipps, MT Swanson, **JA Nations**, MA Morni, J William-Dee, N Inayah, E Dwi Jayanti, M Rizaldi Trias Jaya Putra, Nurdin, KE Griffin, FAA Khan, LR Heaney, KC Rowe, JA Esselstyn. Systematics and historical biogeography of Crunomys and Maxomys (Muridae: Murinae), with the description of a new species from Sulawesi and new genus-level classification. *Accepted*. Journal of Mammalogy.
+**2025** \| TC Giarla, AS Achmadi, PH Fabre, H Handika, AS Chipps, MT Swanson, **JA Nations**, MA Morni, J William-Dee, N Inayah, E Dwi Jayanti, M Rizaldi Trias Jaya Putra, Nurdin, KE Griffin, FAA Khan, LR Heaney, KC Rowe, JA Esselstyn. Systematics and historical biogeography of Crunomys and Maxomys (Muridae: Murinae), with the description of a new species from Sulawesi and new genus-level classification. The Journal of Mammalogy. 106(4): 1-27.
 
 **2025** \| **JA Nations**, BA Kohli, H Handika, AS Achmadi, MJ Polito, KC Rowe, JA Esselstyn. The roles of isolation and interspecific interaction in generating the functional diversity of an insular mammal radiation. Oikos. 2025(3): e10888.
 
@@ -177,7 +177,7 @@ LINE BREAK INTRODUCED ABOVE WITH BACKSLASH (to avoid cutting citation in 1/2)
 ## Invited Book Chapters  
 \everypar{\hangindent=1.15cm \hangafter=1}
 
-**2024** \| **JA Nations**, L Weaver, D Grossnickle. Predictors of Arboreality from the Mammalian Appendicular Skeleton Illuminate Locomotor Trends Among Early Mammals. In: MC Granatosky, SLD Toussaint & D Youlatos (Eds.) *Functional Morphology and Biomechanics of Arboreal Locomotion in Tetrapods.* In Press.\
+**2024** \| **JA Nations**, L Weaver, D Grossnickle. Predictors of Arboreality from the Mammalian Appendicular Skeleton Illuminate Locomotor Trends Among Early Mammals. In: MC Granatosky, SLD Toussaint & D Youlatos (Eds.) *Functional Morphology and Biomechanics of Arboreal Locomotion in Tetrapods.* In Press. [bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2025.07.09.663922v1)\
 
 ## Invited & Departmental Seminars
 \everypar{\hangindent=1.15cm \hangafter=1}
@@ -275,17 +275,25 @@ LINE BREAK INTRODUCED ABOVE WITH BACKSLASH (to avoid cutting citation in 1/2)
 ## Mentorship
 \everypar{\hangindent=1.23cm \hangafter=1}
 
+**Graduate Students:**\ 
+
+**Ellie Bollich**: **2025-present** - PhD., Florida Museum & Biology Department - Ecological radiation of Malay Archipelago shrews
+
+**Meghan Holst**: **2025-present** - PhD., Florida Museum & School of Natural Resources and Environment - Cryptic coloration and intraspecific variation in Florida rodents.
+
 **Undergraduate Students:**\ 
 
 **Chloe Lynn**: **2025-present** - Florida Museum - 3D imaging of FLMNH Florida Panther collection for morphometrics and developmental instability research. 
 
-**Chloe Hwang**: **2025-present** - Florida Museum Intern - Curation and 3D imaging of recently acquired opposum accession (~800 individuals). 
+**Brooks Rogers**: **2025-present** - Florida Museum - Morphometrics of climbing in an assemblage of neotomine rodents in Florida. 
+
+**Chloe Hwang**: **2025** - Florida Museum Intern - Curation and 3D imaging of recently acquired opposum accession (~800 individuals). 
 
 **Veronica Ramos**: **2024** - Florida Museum Intern - Processing microCT data to quantify the function of an unsubscribed bone in the shoulder of crocidurine shrews. 
 
-**Alana Rush**: **2024-present** - Florida Museum - Identifying Florida localities for museum resurvey projects & processing microCT data of crocidurine shrew crania. 
+**Alana Rush**: **2024-2025** - Florida Museum - Identifying Florida localities for museum resurvey projects & processing microCT data of crocidurine shrew crania. 
 
-**Davey Cagle**: **2024-present** - Florida Museum - Curatorial work and shrew morphometric research. 
+**Davey Cagle**: **2024** - Florida Museum - Curatorial work and shrew morphometric research. 
 
 **Shelby Oliveaux**: **2019-2020** - LSU - Collecting and processing geometric morphometric data. 
 
@@ -305,7 +313,8 @@ LINE BREAK INTRODUCED ABOVE WITH BACKSLASH (to avoid cutting citation in 1/2)
 
 **Sarah Swanson**: **2014-2015** - University of Alaska Museum - Identification, preparation, and curation of museum specimens from Denali National Park.
 
-**High School Students**\   
+**High School Students:**\   
+
 **Stefania Kremer**, **Briana Kremer**: **2014-2015** - University of Alaska Museum - Identification, preparation and curation of museum specimens from Denali National Park. 
 **Kelly May**: **2012-2015** - University of Alaska Museum - Research on the effects of climate change on the body size of Alaska's shrews.\
 
@@ -313,9 +322,11 @@ LINE BREAK INTRODUCED ABOVE WITH BACKSLASH (to avoid cutting citation in 1/2)
 ## Teaching & Training
 \everypar{\hangindent=1.15cm \hangafter=1}
 
-**2025** \| **Principles of Systematic**: Co-Instructor. History and overview of systematic Biology.  BOT6726/ZOO6927, Biology Department, University of Florida
+**2025** \| **Mammalogy**: Instructor. Origins, diversity, biogeography, phylogeny, and ecology of mammals.  ZOO5486/ZOO4926/WIS4934, Biology Department & Department of Wildlife Ecology and Conservation, University of Florida. Taught every Fall semester.
 
-**2024** \| **Phylogenetics Seminar**: Co-Instructor. Graduate seminar on topics in phylogenetics.  BOT6935, Biology Department, University of Florida
+**2025** \| **Principles of Systematic**: Co-Instructor. History and overview of systematic Biology.  BOT6726/ZOO6927, Biology Department, University of Florida. Taught every other Spring semester.
+
+**2024-2025** \| **Phylogenetics Seminar**: Co-Instructor. Graduate seminar on topics in phylogenetics.  BOT6935, Biology Department, University of Florida. Taught every Fall semester.
 
 **2023** \| **Bayesian Approaches to Data Analysis**: Co-Instructor. Graduate seminar on Bayesian multilevel modeling. GEOS 36200, Department of the Geophysical Sciences, University of Chicago
 
@@ -384,14 +395,17 @@ Lead 12 undergraduate Mammalogy students on a field survey - Kisatchie National 
 \everypar{\hangindent=1.23cm \hangafter=1}
 
 **Journal Peer Review**\   
-Science, The American Naturalist, Systematic Biology, Evolution, Ecology and Evolution, Journal of Anatomy, Journal of Evolutionary Biology, Journal of Mammalogy, Therya, Zoological Research, Journal of Mammalian Evolution, Mammalian Species, Royal Society Open Science, PeerJ, Mammalia, Mammal Study, Biodiversity Data Journal, Zoologischer Anzeiger.
+Science, The American Naturalist, Systematic Biology, Evolution, Ecology and Evolution, Journal of Anatomy, Journal of Evolutionary Biology, Journal of Mammalogy, Therya, Zoological Research, Journal of Mammalian Evolution, Mammalian Species, Royal Society Open Science, PeerJ, Mammalia, Mammal Study, Biodiversity Data Journal, Zoologischer Anzeiger, Taprobanica.
 
 **Grant Review**\   
 NSF CAREER Program (*Ad hoc reviewer*)\
+NSF Graduate Research Fellowship Program\
 American Society of Mammalogists Grants in Aid.\
 
 ## Departmental Service
 \everypar{\hangindent=2.85cm \hangafter=1}
+
+\textbf{2025\enskip-\enskip present}\enskip\|\enskip Departmental Action Committee, Florida Museum of Natural History
 
 \textbf{2024\enskip-\enskip present}\enskip\|\enskip Digitization Committee, Florida Museum of Natural History\
 
