@@ -13,7 +13,7 @@ jobtitle2: "University of Florida "
 fontawesome: yes
 email: jnations@floridamuseum.ufl.edu
 github: jonnations
-#web: jonnynations.com
+web: floridamuseum.ufl.edu/mammals-lab/
 updated: TRUE
 rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
 
@@ -154,7 +154,7 @@ Distributed by UAF to outstanding undergraduate students
 
 **2021** \| RS Marcondes\*, **JA Nations**\*, GF Seeholzer, & RT Brumfield. 2021. Rethinking Gloger's rule: climate, light environments, and color in a diverse family of tropical birds. The American Naturalist. 197(5): 592-606.\
 \**Joint first authorship*
-\\
+
 **2021** \| **JA Nations**, GG Mount, SM Morere\*, AS Achmadi, KC Rowe, & JA Esselstyn. Locomotory mode transitions alter phenotypic evolution and lineage diversification in an ecologically rich clade of mammals. Evolution. 75(2): 376-393.\
 \**Undergraduate author*
 
@@ -182,13 +182,14 @@ LINE BREAK INTRODUCED ABOVE WITH BACKSLASH (to avoid cutting citation in 1/2)
 ## Invited & Departmental Seminars
 \everypar{\hangindent=1.15cm \hangafter=1}
 
+**2025** \| Departmental Seminar, School of Natural Resources and Environment, University of Florida, Gainesville, FL  
+
 **2024** \| Departmental Seminar, Biology Department, University of Florida, Gainesville, FL  
-*Quantifying complex, multivariate ecologies (and other calming pursuits in mammalogy)*
 
 **2024** \| Departmental Seminar, Wildlife Ecology and Conservation, University of Florida, Gainesville, FL  
 *Quantifying complex, multivariate ecologies (and other calming pursuits in mammalogy)*  
 
-**2022** \| Departmental Seminar, Canadian Natural History Museum, Ottowa, ON  
+**2022** \| Departmental Seminar, Canadian Natural History Museum, Ottawa, ON  
 *Modern take on the classics: Using probabilistic methods to investigate ecogeographical theories in understudied vertebrate groups*  
 
 **2021** \| EvMorph Seminar, University of Chicago, Chicago, IL  
@@ -283,13 +284,15 @@ LINE BREAK INTRODUCED ABOVE WITH BACKSLASH (to avoid cutting citation in 1/2)
 
 **Undergraduate Students:**\ 
 
+**Kylie Stainback**: **2026-present** - Florida Museum Intern - Survey of Pine Island small mammals from Great Horned owl pellets.
+
 **Chloe Lynn**: **2025-present** - Florida Museum - 3D imaging of FLMNH Florida Panther collection for morphometrics and developmental instability research. 
 
 **Brooks Rogers**: **2025-present** - Florida Museum - Morphometrics of climbing in an assemblage of neotomine rodents in Florida. 
 
-**Chloe Hwang**: **2025** - Florida Museum Intern - Curation and 3D imaging of recently acquired opposum accession (~800 individuals). 
+**Chloe Hwang**: **2025** - Florida Museum Intern - Curation and 3D imaging of recently acquired opossum accession (~800 individuals). 
 
-**Veronica Ramos**: **2024** - Florida Museum Intern - Processing microCT data to quantify the function of an unsubscribed bone in the shoulder of crocidurine shrews. 
+**Veronica Ramos**: **2024** - Florida Museum Intern - Processing microCT data to quantify the function of an undescribed bone in the shoulder of crocidurine shrews. 
 
 **Alana Rush**: **2024-2025** - Florida Museum - Identifying Florida localities for museum resurvey projects & processing microCT data of crocidurine shrew crania. 
 
@@ -324,7 +327,7 @@ LINE BREAK INTRODUCED ABOVE WITH BACKSLASH (to avoid cutting citation in 1/2)
 
 **2025** \| **Mammalogy**: Instructor. Origins, diversity, biogeography, phylogeny, and ecology of mammals.  ZOO5486/ZOO4926/WIS4934, Biology Department & Department of Wildlife Ecology and Conservation, University of Florida. Taught every Fall semester.
 
-**2025** \| **Principles of Systematic**: Co-Instructor. History and overview of systematic Biology.  BOT6726/ZOO6927, Biology Department, University of Florida. Taught every other Spring semester.
+**2025** \| **Principles of Systematic Biology**: Co-Instructor. History and overview of systematic Biology.  BOT6726/ZOO6927, Biology Department, University of Florida. Taught every other Spring semester.
 
 **2024-2025** \| **Phylogenetics Seminar**: Co-Instructor. Graduate seminar on topics in phylogenetics.  BOT6935, Biology Department, University of Florida. Taught every Fall semester.
 
@@ -383,12 +386,15 @@ Lead 12 undergraduate Mammalogy students on a field survey - Kisatchie National 
 ## Professional Service
 \everypar{\hangindent=2.85cm \hangafter=1}
 
+\textbf{2025\enskip-\enskip present}\enskip\|\enskip Chair of Research Subcommittee, Member of Bat Houses Working Group, University of Florida
+*Mission of building research, infrastructure, and outreach capacity at the University of Florida Bat Houses, a colony of >200,000 Free-tailed bats and other species* 
+
 \textbf{2022\enskip-\enskip present}\enskip\|\enskip Maintenance, Phylogenetics Task View CRAN Repository 
 
 \textbf{2022\enskip-\enskip present}\enskip\|\enskip Grants in Aid Committee, American Society of Mammalogists  
 
 \textbf{2019\enskip-\enskip present}\enskip\|\enskip Biodiversity Committee, American Society of Mammalogists  
-*Member of Muroidea taxonomic working group*
+*Member of Muroidea and Eulipotyphla taxonomic working groups*
 
 
 \textbf{2019\enskip-\enskip present}\enskip\|\enskip Nomenclature Committee, American Society of Mammalogists  
@@ -414,6 +420,8 @@ American Society of Mammalogists Grants in Aid.\
 
 ## Fieldwork: Museum Collection Expeditions
 \begin{itemize}[noitemsep]
+    \item North Central Florida, various, 2025 - present
+    \item Mt. Kalatungan, Central Mindanao, The Philippines, 2025
     \item Mt. Patah, South Sumatra, Indonesia, 2023
     \item Biota CAPTURE Project, Chicago, 2022 - 2023
     \item Mt. Murud, Sarawak, Malaysia, 2019

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.10)  10 NOV 2025 16:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.10)  3 MAR 2026 14:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -543,61 +543,61 @@ Underfull \hbox (badness 10000) in paragraph at lines 256--258
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 324--328
+Underfull \hbox (badness 10000) in paragraph at lines 325--329
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 335--339
+Underfull \hbox (badness 10000) in paragraph at lines 336--340
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--351
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 401--405
+Underfull \hbox (badness 10000) in paragraph at lines 345--352
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 490--493
+Underfull \hbox (badness 10000) in paragraph at lines 403--407
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--495
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 564--569
+Underfull \hbox (badness 10000) in paragraph at lines 569--574
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 616--619
+Underfull \hbox (badness 10000) in paragraph at lines 621--624
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 667--668
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 683--686
+Underfull \hbox (badness 10000) in paragraph at lines 672--673
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 695--699
+Underfull \hbox (badness 10000) in paragraph at lines 694--697
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 707--709
+Underfull \hbox (badness 10000) in paragraph at lines 706--710
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 716.
+
+Underfull \hbox (badness 10000) in paragraph at lines 718--720
+
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 727.
 (/Users/jnations1/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 ) [7] (./PDF_CV.aux)
@@ -609,18 +609,18 @@ Package rerunfilecheck Info: File `PDF_CV.out' has not changed.
 (rerunfilecheck)             Checksum: 23C8FE14AC1467DFC38F87896DF5EB69;2014.
  ) 
 Here is how much of TeX's memory you used:
- 15756 strings out of 469458
- 243966 string characters out of 5466770
- 698580 words of memory out of 5000000
+ 15761 strings out of 469458
+ 244006 string characters out of 5466770
+ 699580 words of memory out of 5000000
  43904 multiletter control sequences out of 15000+600000
- 673356 words of font info for 276 fonts, out of 8000000 for 9000
+ 673539 words of font info for 280 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 72i,6n,79p,1195b,495s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,6n,79p,1195b,584s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/jnations1/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/jnations1/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on PDF_CV.pdf (7 pages, 152588 bytes).
+Output written on PDF_CV.pdf (7 pages, 156317 bytes).
 PDF statistics:
- 164 PDF objects out of 1000 (max. 8388607)
- 121 compressed objects within 2 object streams
+ 168 PDF objects out of 1000 (max. 8388607)
+ 122 compressed objects within 2 object streams
  21 named destinations out of 1000 (max. 500000)
  53353 words of extra memory for PDF output out of 61914 (max. 10000000)
 
