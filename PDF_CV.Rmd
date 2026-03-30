@@ -1,10 +1,12 @@
 ---
-output: 
+output:
+  #html_document:
+  #  toc: false
+  #  css: cv-style.css
   pdf_document:
     latex_engine: pdflatex
     template: svm-latex-cv.tex
 geometry: margin=0.825in
-
 title: "CV"
 author: Jonathan A. Nations
 jobtitle: "Assistant Curator of Mammals"
@@ -16,9 +18,7 @@ github: jonnations
 web: floridamuseum.ufl.edu/mammals-lab/
 updated: TRUE
 rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
-
 keywords: R Markdown, academic CV, template
-
 #fontawesome: yes
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
